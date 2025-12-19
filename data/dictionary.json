@@ -146,6 +146,10 @@
   "Save motion preferences": "モーション設定を保存",
 
   "Keyboard shortcuts": "キーボードショートカット",
+  "General": "一般",
+  "Character keys": "文字キー",
+  "Enable GitHub shortcuts that don't use modifier keys in their activation. For example, the g n shortcut to navigate notifications, or ? to view context relevant shortcuts.": "修飾キーを使わないGitHubショートカットを有効にします。たとえば、通知に移動するには g n、関連するショートカットの一覧を見るには ? を使用します。",
+  "Learn more about character key shortcuts.": "文字キーショートカットの詳細を見る。",
   "Save keyboard shortcut preferences": "キーボードショートカット設定を保存",
 
   "Sign out": "サインアウト",
