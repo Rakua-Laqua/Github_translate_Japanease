@@ -11,6 +11,7 @@
   "New issue": "新しい課題",
   "New": "新規",
   "Edit": "編集",
+  "Preview": "プレビュー",
   "Delete": "削除",
   "Save": "保存",
   "Cancel": "キャンセル",
@@ -23,6 +24,7 @@
   "Sign up": "サインアップ",
   "Settings": "設定",
   "Notifications": "通知",
+  "Integrations": "統合",
 
   "Appearance": "外観",
   "Accessibility": "アクセシビリティ",
@@ -226,6 +228,7 @@
   "Drop to upload your files": "ドロップしてファイルをアップロード",
   "Add file": "ファイルを追加",
   "Go to file": "ファイルへ移動",
+  "Additional navigation options": "追加のナビゲーションオプション",
   "Open more actions menu": "その他の操作メニューを開く",
   "Edit file": "ファイルを編集",
 
@@ -241,6 +244,7 @@
   "Your issues": "あなたのIssue",
   "Chat with Copilot": "Copilot とチャット",
   "Open agents panel": "エージェントパネルを開く",
+  "New agent session": "新しいエージェントセッション",
 
   "You switched accounts on another tab or window.": "別のタブまたはウィンドウでアカウントを切り替えました。",
   "You signed out in another tab or window.": "別のタブまたはウィンドウでサインアウトしました。",
@@ -263,10 +267,14 @@
   "Go to your personal profile": "個人プロフィールへ移動",
 
   "Profile picture": "プロフィール画像",
+  "Social account": "ソーシャルアカウント",
   "Social accounts": "ソーシャルアカウント",
   "Public email": "公開メールアドレス",
   "Bio": "自己紹介",
   "Pronouns": "代名詞",
+  "she/her": "she/her（彼女）",
+  "he/him": "he/him（彼）",
+  "they/them": "they/them（彼ら）",
   "Don't specify": "指定しない",
   "Custom": "カスタム",
   "Link to social profile 1": "ソーシャルプロフィールへのリンク 1",
@@ -289,7 +297,21 @@
   "Save jobs profile": "求人プロフィールを保存",
   "Trending settings": "トレンド設定",
   "Preferred spoken language": "希望する表示言語",
+  "Languages": "言語",
   "No Preference": "指定なし",
+
+  "GitHub developer program": "GitHub開発者プログラム",
+  "Footer": "フッター",
+  "Lists": "リスト",
+  "Initial commit": "初回コミット",
+  "FREE": "無料",
+
+  "Select a verified email to display": "表示する確認済みメールアドレスを選択",
+  "You have set your email address to private. To toggle email privacy, go to": "メールアドレスを非公開に設定しています。公開/非公開を切り替えるには次へ移動してください：",
+  "email settings": "メール設定",
+  "Keep my email address private": "メールアドレスを非公開にする",
+  "and uncheck \"Keep my email address private.\"": "そして「メールアドレスを非公開にする」のチェックを外してください。",
+  "Other users will see the time difference from their local time.": "他のユーザーには、現地時間との差が表示されます。",
 
   "Delete account": "アカウントを削除",
   "Export account data": "アカウントデータをエクスポート",
