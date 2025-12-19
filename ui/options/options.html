@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GitHub 日本語化 - 設定</title>
+    <style>
+      body { font: 14px/1.5 system-ui, -apple-system, Segoe UI, sans-serif; margin: 16px; max-width: 900px; }
+      h1 { margin: 0 0 12px; font-size: 18px; }
+      h2 { margin: 20px 0 8px; font-size: 16px; }
+      .row { display: flex; align-items: center; gap: 12px; margin: 8px 0; }
+      label { min-width: 220px; }
+      input[type="text"], input[type="number"], textarea, select { width: 100%; padding: 8px; box-sizing: border-box; }
+      textarea { min-height: 110px; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+      .actions { display: flex; gap: 8px; flex-wrap: wrap; }
+      button { padding: 8px 12px; }
+      .muted { color: #666; font-size: 12px; }
+      .status { margin-top: 10px; font-size: 12px; }
+      .logbox { min-height: 220px; }
+      @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } label { min-width: 160px; } }
+    </style>
+  </head>
+  <body>
+    <h1>GitHub 日本語化 - 設定</h1>
+
+    <div class="muted">外部通信なし。翻訳は辞書置換のみ。未知語ログはローカル保存のみ。</div>
+
+    <h2>基本</h2>
+    <div class="row">
+      <label for="enabled">日本語化</label>
+      <input id="enabled" type="checkbox" />
+    </div>
+    <div class="row">
+      <label for="loggingEnabled">未知語ログ収集</label>
+      <input id="loggingEnabled" type="checkbox" />
+    </div>
+
+    <h2>翻訳対象</h2>
+    <div class="row">
+      <label for="ariaLabel">aria-label</label>
+      <input id="ariaLabel" type="checkbox" />
+    </div>
+    <div class="row">
+      <label for="title">title</label>
+      <input id="title" type="checkbox" />
+    </div>
+    <div class="row">
+      <label for="placeholder">placeholder</label>
+      <input id="placeholder" type="checkbox" />
+    </div>
+
+    <h2>除外セレクタ</h2>
+    <div class="row">
+      <label for="excludeSelectors">除外（CSSセレクタ）</label>
+      <input id="excludeSelectors" type="text" />
+    </div>
+    <div class="muted">例: pre, code, .markdown-body</div>
+
+    <h2>ログ収集（上限/文字数）</h2>
+    <div class="grid">
+      <div>
+        <div class="row">
+          <label for="logMaxEntries">最大件数</label>
+          <input id="logMaxEntries" type="number" min="0" step="1" />
+        </div>
+      </div>
+      <div>
+        <div class="row">
+          <label for="logMinLen">最小文字数</label>
+          <input id="logMinLen" type="number" min="0" step="1" />
+        </div>
+        <div class="row">
+          <label for="logMaxLen">最大文字数</label>
+          <input id="logMaxLen" type="number" min="0" step="1" />
+        </div>
+      </div>
+    </div>
+
+    <h2>ユーザー辞書（JSON）</h2>
+    <textarea id="userDictionary" spellcheck="false" placeholder='例: {"New issue":"新しい課題"}'></textarea>
+    <div class="actions">
+      <button id="save">保存</button>
+      <button id="reload">再読み込み</button>
+    </div>
+
+    <h2>未知語ログ</h2>
+    <div class="grid">
+      <div>
+        <div class="row">
+          <label for="filterType">タイプ</label>
+          <select id="filterType">
+            <option value="">（すべて）</option>
+            <option value="textNode">textNode</option>
+            <option value="aria-label">aria-label</option>
+            <option value="title">title</option>
+            <option value="placeholder">placeholder</option>
+          </select>
+        </div>
+        <div class="row">
+          <label for="filterUrl">URL（部分一致）</label>
+          <input id="filterUrl" type="text" placeholder="/issues など" />
+        </div>
+        <div class="row">
+          <label for="sort">ソート</label>
+          <select id="sort">
+            <option value="new">新着順</option>
+            <option value="freq">頻出順</option>
+          </select>
+        </div>
+
+        <div class="actions">
+          <button id="exportJson">エクスポート（JSON）</button>
+          <button id="exportCsv">エクスポート（CSV）</button>
+          <button id="copyTemplate">辞書テンプレをコピー</button>
+          <button id="clearLog">全消去</button>
+        </div>
+      </div>
+      <div>
+        <textarea id="logView" class="logbox" spellcheck="false" readonly></textarea>
+        <div class="muted">表示は簡易（JSON）。コピー/エクスポートはボタンから。</div>
+      </div>
+    </div>
+
+    <div class="status" id="status"></div>
+
+    <script src="../../shared/common.js"></script>
+    <script src="./options.js"></script>
+  </body>
+</html>

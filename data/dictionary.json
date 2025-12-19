@@ -1,0 +1,28 @@
+{
+  "Code": "コード",
+  "Issues": "課題",
+  "Pull requests": "プルリクエスト",
+  "Actions": "アクション",
+  "Projects": "プロジェクト",
+  "Wiki": "Wiki",
+  "Security": "セキュリティ",
+  "Insights": "分析",
+
+  "New issue": "新しい課題",
+  "New": "新規",
+  "Edit": "編集",
+  "Delete": "削除",
+  "Save": "保存",
+  "Cancel": "キャンセル",
+  "Close": "閉じる",
+  "Open": "オープン",
+  "Closed": "クローズ",
+  "Search": "検索",
+
+  "Sign in": "サインイン",
+  "Sign up": "サインアップ",
+  "Settings": "設定",
+  "Notifications": "通知",
+
+  "Copied!": "コピーしました！"
+}
