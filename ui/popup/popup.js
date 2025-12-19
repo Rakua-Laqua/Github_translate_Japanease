@@ -41,6 +41,11 @@
     await copy(JSON.stringify(unknownLog, null, 2));
   });
 
+  document.getElementById("openOptions").addEventListener("click", async () => {
+    await chrome.runtime.openOptionsPage();
+    window.close();
+  });
+
   document.getElementById("copyCsv").addEventListener("click", async () => {
     const { unknownLog } = await GHJP.getUnknownLogLocal();
     await copy(GHJP.toCsv(unknownLog));

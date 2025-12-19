@@ -58,6 +58,7 @@
 
 ## 更新履歴
 
+- v1.1.0: ポップアップから詳細設定（Options）を開けるようにし、ログ最大文字数などを変更しやすく
 - v1.0.3: Settings > Accessibility > Keyboard shortcuts 周辺の辞書を追加（長文の未翻訳にも対応）
 - v1.0.2: Settingsメニュー（左ナビ）と共通UI文言の辞書を拡充
 - v1.0.1: 設定画面（Appearance/Accessibility/Profile など）向けの辞書を拡充
