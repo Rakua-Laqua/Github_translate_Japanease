@@ -1,0 +1,2 @@
+# Github_translate_Japanease
+Githubを日本語化するためのchrome拡張機能
