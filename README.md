@@ -58,5 +58,6 @@
 
 ## 更新履歴
 
+- v1.0.2: Settingsメニュー（左ナビ）と共通UI文言の辞書を拡充
 - v1.0.1: 設定画面（Appearance/Accessibility/Profile など）向けの辞書を拡充
 
