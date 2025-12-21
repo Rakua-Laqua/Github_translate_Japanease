@@ -5,20 +5,25 @@ from collections import Counter
 dict_path = r'c:\Users\Rakua\Documents\VScode\Java script\ブラウザ拡張機能\Github_translate_Japanease\data\dictionary.json'
 log_path = r'c:\Users\Rakua\Documents\VScode\Java script\ブラウザ拡張機能\Github_translate_Japanease\未翻訳ログ.json'
 
+def normalize(text):
+    if not text: return ""
+    return re.sub(r'\s+', ' ', text.strip())
+
 with open(dict_path, 'r', encoding='utf-8') as f:
     dictionary = json.load(f)
+    dict_keys = set(normalize(k) for k in dictionary.keys())
 
 with open(log_path, 'r', encoding='utf-8') as f:
     logs = json.load(f)
 
-dict_keys = set(dictionary.keys())
+# dict_keys = set(dictionary.keys()) # Deleted
 
 url_counts = Counter()
 text_counts = Counter()
 text_to_url = {}
 
 for log in logs:
-    text = log['text'].strip()
+    text = normalize(log['text'])
     if not text: continue
     url = log.get('url', 'unknown')
     url_counts[url] += 1
