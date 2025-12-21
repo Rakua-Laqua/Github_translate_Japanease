@@ -13,7 +13,7 @@
     excludeSelectors: "pre, code, .markdown-body",
     logMaxEntries: 2000,
     logMinLen: 2,
-    logMaxLen: 80,
+    logMaxLen: 500,
     userDictionary: {}
   };
 
@@ -58,7 +58,7 @@
     if (/\bwww\./i.test(text)) return false;
     if (/\b[a-f0-9]{7,40}\b/i.test(text)) return false;
 
-    if (/[{}<>;$=]/.test(text)) return false;
+    if (/[{}<>=]/.test(text)) return false;
 
     return true;
   }
