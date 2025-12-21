@@ -2556,5 +2556,22 @@
   "Student": "学生",
   "here": "こちら",
   "You have a current student coupon applied. Find more information on your benefits": "現在、学生クーポンが適用されています。特典の詳細については",
-  "Get Copilot Pro for free, 180 monthly Codespaces hours for cloud coding, unlimited private repositories with GitHub Pro or Team, and dozens of premium tools in the Student Developer Pack.": "Copilot Proを無料で利用、クラウドコーディング用のCodespaces月間180時間、GitHub ProまたはTeamで無制限のプライベートリポジトリ、Student Developer Packに含まれる数十のプレミアムツールを利用できます。"
+  "Get Copilot Pro for free, 180 monthly Codespaces hours for cloud coding, unlimited private repositories with GitHub Pro or Team, and dozens of premium tools in the Student Developer Pack.": "Copilot Proを無料で利用、クラウドコーディング用のCodespaces月間180時間、GitHub ProまたはTeamで無制限のプライベートリポジトリ、Student Developer Packに含まれる数十のプレミアムツールを利用できます。",
+  "invoices": "請求書",
+  "ending": "下4桁",
+  "Notifications for the conversations you are participating in, or if someone cites you with an @mention. Also for all activity when subscribed to specific events.": "参加している会話の通知、または@メンションで引用された場合の通知。特定のイベントを購読している場合は、すべてのアクティビティも含まれます。",
+  "control shift and V": "Ctrl + Shift + V",
+  "alt up": "Alt + ↑",
+  "that don't use modifier keys in their activation. For example, the": "有効化に修飾キーを使用しないショートカット。例えば、",
+  "account? We won't charge your credit card anymore.": "アカウントに変更しますか？クレジットカードへの請求は行われなくなります。",
+  "to a": "への",
+  "Are you sure you don't want to just": "本当にこれだけにしませんか：",
+  "immediately delete all of your repositories (18)": "すべてのリポジトリ (18) を直ちに削除",
+  "We will": "以下を実行します：",
+  ", in the event of my death. I understand that this appointment of a successor does not override legally binding next-of-kin rules or estate laws of any relevant jurisdiction, and does not create a binding will.": "に、私の死亡時にアカウントを移管することを承認します。この後継者の指定は、法的拘束力のある近親者規則や関連管轄区域の遺産法を上書きするものではなく、拘束力のある遺言を作成するものでもないことを理解しています。",
+  "By clicking \"Add Successor\" below, I acknowledge that I am the owner of the @Rakua-Laqua account, and am authorizing GitHub to transfer content within that account to my GitHub Successor,": "下の「後継者を追加」をクリックすることで、私は @Rakua-Laqua アカウントの所有者であることを確認し、GitHubがそのアカウント内のコンテンツを私のGitHub後継者",
+  "to sponsor maintainers with. Get recognition on GitHub for sponsorships made on Patreon when the sponsored person has linked Patreon and GitHub, too, and has a public GitHub Sponsors profile.": "でメンテナーをスポンサーできます。スポンサーされた人がPatreonとGitHubをリンクし、公開のGitHub Sponsorsプロフィールを持っている場合、Patreonで行ったスポンサーシップについてGitHubで認識を得られます。",
+  "will": "する",
+  "will not": "しない",
+  "We": "私たちは"
 }
