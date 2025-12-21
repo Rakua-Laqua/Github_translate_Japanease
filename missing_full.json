@@ -1,0 +1,608 @@
+[
+  {
+    "text": "Access:",
+    "count": 63,
+    "hint": "span.color-fg-subtle.mr-1",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Read-only",
+    "count": 57,
+    "hint": "span.prc-Button-Label-FWkx3",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Git SSH keys",
+    "count": 7,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Read and write",
+    "count": 6,
+    "hint": "span.prc-Button-Label-FWkx3",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Developer Settings",
+    "count": 6,
+    "hint": "span.ActionListItem-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Starring",
+    "count": 5,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "SSH signing keys",
+    "count": 5,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Email addresses",
+    "count": 5,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Copilot Chat",
+    "count": 5,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Codespaces user secrets",
+    "count": 5,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Block another user",
+    "count": 5,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Starring. More information available below.",
+    "count": 4,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Starring",
+    "count": 4,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "List and manage repositories a user is starring.",
+    "count": 4,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "SSH signing keys. More information available below.",
+    "count": 4,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove SSH signing keys",
+    "count": 4,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "View and manage a user's SSH signing keys.",
+    "count": 4,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Email addresses. More information available below.",
+    "count": 4,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Email addresses",
+    "count": 4,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Manage a user's email addresses.",
+    "count": 4,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Copilot Chat. More information available below.",
+    "count": 4,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Copilot Chat",
+    "count": 4,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Codespaces user secrets. More information available below.",
+    "count": 4,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Codespaces user secrets",
+    "count": 4,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Manage Codespaces user secrets.",
+    "count": 4,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Block another user. More information available below.",
+    "count": 4,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Block another user",
+    "count": 4,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "View and manage users blocked by the user.",
+    "count": 4,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Private repository invitations",
+    "count": 4,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Plan",
+    "count": 4,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "GPG keys",
+    "count": 4,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Followers",
+    "count": 4,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Events",
+    "count": 4,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Copilot Requests",
+    "count": 4,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Copilot Editor Context",
+    "count": 4,
+    "hint": "span.prc-ActionList-ItemLabel-81ohH",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Permission Blank Slate",
+    "count": 4,
+    "hint": "span.prc-VisuallyHidden-VisuallyHidden-Q0qSB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Watching. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Watching",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "List and change repositories a user is subscribed to.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Profile. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Profile",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Manage a user's profile settings.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Private repository invitations. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Private repository invitations",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "View a user's invitations to private repositories",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Plan. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Plan",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "View a user's plan.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Models. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Models",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Allows access to GitHub Models.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Interaction limits. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Interaction limits",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Interaction limits on repositories",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Git SSH keys. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Git SSH keys",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Gists. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Gists",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Create and modify a user's gists and comments.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "GPG keys. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove GPG keys",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "View and manage a user's GPG keys.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Followers. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Followers",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "A user's followers",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Events. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Events",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "View events triggered by a user's activity.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Copilot Requests. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Copilot Requests",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Send Copilot requests.",
+    "count": 3,
+    "hint": "div.Description-module__container--Zwqe8",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Copilot Editor Context. More information available below.",
+    "count": 3,
+    "hint": "li.ListItem-module__listItem--k4eMk",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Remove Copilot Editor Context",
+    "count": 3,
+    "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Sorry, something went wrong.",
+    "count": 3,
+    "hint": "h2.f6.text-normal",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Rakua-Laqua",
+    "count": 2,
+    "hint": "span.Button-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "github-ruby",
+    "count": 1,
+    "hint": "input.form-control",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Retry check",
+    "count": 1,
+    "hint": "button.btn",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "for more information.",
+    "count": 1,
+    "hint": "p",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "See the documentation",
+    "count": 1,
+    "hint": "a.Link--inTextBlock",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Something went wrong while checking. Please retry.",
+    "count": 1,
+    "hint": "p",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Authorization check",
+    "count": 1,
+    "hint": "h3.mb-1",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "This token will be ready for use immediately.",
+    "count": 1,
+    "hint": "p.note.text-small.mt-2",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Generate token",
+    "count": 1,
+    "hint": "span.Button-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Add permissions",
+    "count": 1,
+    "hint": "span",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Learn more about permissions.",
+    "count": 1,
+    "hint": "a.Link--inTextBlock",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Choose the minimal permissions necessary for your needs.",
+    "count": 1,
+    "hint": "p.mb-3",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Only select repositories",
+    "count": 1,
+    "hint": "label.FormControl-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Read-only access to public repositories.",
+    "count": 1,
+    "hint": "span.FormControl-caption",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Public repositories",
+    "count": 1,
+    "hint": "label.FormControl-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Repository access",
+    "count": 1,
+    "hint": "h3.Subhead-heading.Subhead-heading--large.f3",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Learn more",
+    "count": 1,
+    "hint": "a.Link--inTextBlock",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "The token will expire on the selected date",
+    "count": 1,
+    "hint": "span.f6.color-fg-muted",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Expiration date can't be blank",
+    "count": 1,
+    "hint": "span.d-inline-flex.flex-items-center",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Select date *",
+    "count": 1,
+    "hint": "label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "No expiration",
+    "count": 1,
+    "hint": "span.ActionListItem-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Expiration",
+    "count": 1,
+    "hint": "label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "No results found",
+    "count": 1,
+    "hint": "h2.v-align-middle.m-3.f5",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "You may only select resource owners with fine-grained PATs enabled.",
+    "count": 1,
+    "hint": "h2.Overlay-description",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Select resource owner",
+    "count": 1,
+    "hint": "h1.Overlay-title",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Resource owner",
+    "count": 1,
+    "hint": "label.FormControl-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  },
+  {
+    "text": "Token name",
+    "count": 1,
+    "hint": "label.FormControl-label",
+    "url": "https://github.com/settings/personal-access-tokens/new"
+  }
+]
