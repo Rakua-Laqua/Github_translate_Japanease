@@ -22,6 +22,7 @@
   let unknownIndex = new Set();
   let unknownKeyToEntry = new Map();
   let unknownSaveTimer = null;
+  let unknownCollectionReady = false; // 初期ログ収集の遅延フラグ
 
   function compileExcludeMatcher(selectors) {
     const s = (selectors ?? "").trim();
@@ -310,6 +311,7 @@
   }
 
   function maybeCollectUnknown(normalizedText, type, elForHint) {
+    if (!unknownCollectionReady) return; // 初期遅延中はログ収集しない
     if (!settings?.loggingEnabled) return;
     if (!GHJP.looksLikeUiText(normalizedText, settings.logMinLen, settings.logMaxLen)) return;
 
@@ -404,6 +406,11 @@
       observeDom();
       translateTree(document.body || document.documentElement);
     }
+
+    // 未翻訳ログ収集を2.5秒後に開始（翻訳適用後に収集するため）
+    setTimeout(() => {
+      unknownCollectionReady = true;
+    }, 2500);
 
     chrome.storage.onChanged.addListener(async (changes, area) => {
       if (area !== "sync") return;
