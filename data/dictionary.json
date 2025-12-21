@@ -2549,5 +2549,12 @@
   "Learn more about Copilot code reviews.": "Copilotコードレビューについて詳しく。",
   "With Copilot code review, you can add Copilot as a reviewer to your pull requests, including drafts. You can also select lines in Visual Studio Code and ask Copilot to review and comment on specific sections.": "Copilotコードレビューを使用すると、ドラフトを含むプルリクエストにCopilotをレビュアーとして追加できます。Visual Studio Codeで行を選択し、特定のセクションをCopilotにレビューしてコメントしてもらうこともできます。",
   "Copilot Code review": "Copilotコードレビュー",
-  "Webhooks Guide": "Webhooksガイド"
+  "Webhooks Guide": "Webhooksガイド",
+  "May 31, 2027": "2027年5月31日",
+  "link": "リンク",
+  "Once the benefits become available, you will be able to access the Students Developer Pack offers": "特典が利用可能になると、Student Developer Packのオファーにアクセスできるようになります",
+  "Student": "学生",
+  "here": "こちら",
+  "You have a current student coupon applied. Find more information on your benefits": "現在、学生クーポンが適用されています。特典の詳細については",
+  "Get Copilot Pro for free, 180 monthly Codespaces hours for cloud coding, unlimited private repositories with GitHub Pro or Team, and dozens of premium tools in the Student Developer Pack.": "Copilot Proを無料で利用、クラウドコーディング用のCodespaces月間180時間、GitHub ProまたはTeamで無制限のプライベートリポジトリ、Student Developer Packに含まれる数十のプレミアムツールを利用できます。"
 }

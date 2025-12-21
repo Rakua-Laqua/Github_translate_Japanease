@@ -1,3260 +1,1568 @@
 [
     {
-        "count": 1,
-        "firstSeenAt": 1766330040528,
-        "hint": "h2.blankslate-heading",
-        "lastSeenAt": 1766330040528,
-        "text": "No custom autolink references have been created yet.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/key_links"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330040527,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330040527,
-        "text": "Read more about the differences between the two.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/key_links"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330040527,
-        "hint": "p",
-        "lastSeenAt": 1766330040527,
-        "text": "Autolinks can be either alphanumeric or numeric.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/key_links"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330040527,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330040527,
-        "text": "Learn more about automatic autolinks.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/key_links"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330040527,
-        "hint": "p",
-        "lastSeenAt": 1766330040527,
-        "text": "References to GitHub issues, pull requests, and commits are automatically converted into links. Configure your own autolink references for non-GitHub URLs.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/key_links"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330040527,
-        "hint": "a.btn.btn-sm",
-        "lastSeenAt": 1766330040527,
-        "text": "Add autolink reference",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/key_links"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "input.form-control.FormControl-input.FormControl-medium",
-        "lastSeenAt": 1766330039335,
-        "text": "one@example.com two@example.com",
-        "type": "placeholder",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330039335,
-        "text": "Setup notifications",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330039335,
-        "text": "event is triggered.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330039335,
-        "text": "We will send notification emails to the listed addresses when a",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330039335,
-        "text": "header to automatically approve the message in a read-only or moderated mailing list.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330039335,
-        "text": "Sets the",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330039335,
-        "text": "Approved header",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330039335,
-        "text": "Whitespace separated email addresses (at most two).",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "p.color-fg-subtle",
-        "lastSeenAt": 1766330039335,
-        "text": "Asterisk (*) denotes a required field",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330039335,
-        "hint": "div.Subhead-description",
-        "lastSeenAt": 1766330039335,
-        "text": "Setup email addresses to receive notifications when push events are triggered.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/notifications/edit"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330036971,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330036971,
-        "text": "renderinc",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330036971,
-        "hint": "strong",
-        "lastSeenAt": 1766330036971,
-        "text": "Render",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330036971,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330036971,
-        "text": "google-labs-code",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330036971,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330036971,
-        "text": "cursor",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330036971,
-        "hint": "strong",
-        "lastSeenAt": 1766330036971,
-        "text": "Cursor",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 4,
-        "firstSeenAt": 1766330036971,
-        "hint": "span.color-fg-danger",
-        "lastSeenAt": 1766330036971,
-        "text": "Failed to load",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330036971,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330036971,
-        "text": "openai",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 4,
-        "firstSeenAt": 1766330036971,
-        "hint": "div.text-small.color-fg-subtle",
-        "lastSeenAt": 1766330036971,
-        "text": "Developed by",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330036971,
-        "hint": "div.Subhead-description",
-        "lastSeenAt": 1766330036971,
-        "text": "GitHub Apps augment and extend your workflows on GitHub with commercial, open source, and homegrown tools.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/installations"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330034752,
-        "hint": "p.mb-4",
-        "lastSeenAt": 1766330034752,
-        "text": "Secrets are not passed to forks.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/dependabot"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330034752,
-        "hint": "p",
-        "lastSeenAt": 1766330034752,
-        "text": "access to this repository can use these secrets for Dependabot.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/dependabot"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330034752,
-        "hint": "b",
-        "lastSeenAt": 1766330034752,
-        "text": "collaborator",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/dependabot"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330034751,
-        "hint": "p",
-        "lastSeenAt": 1766330034751,
-        "text": ". Anyone with",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/dependabot"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330034751,
-        "hint": "p",
-        "lastSeenAt": 1766330034751,
-        "text": "Secrets are credentials that are",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/dependabot"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330034751,
-        "hint": "h2.Subhead-heading.Subhead-heading--large",
-        "lastSeenAt": 1766330034751,
-        "text": "Dependabot secrets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/dependabot"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330033662,
-        "hint": "p",
-        "lastSeenAt": 1766330033662,
-        "text": ". Secrets are not passed to forks.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/codespaces"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330033662,
-        "hint": "p",
-        "lastSeenAt": 1766330033662,
-        "text": "Development environment secrets are environment variables that are",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/codespaces"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330033662,
-        "hint": "h2.Subhead-heading.Subhead-heading--large",
-        "lastSeenAt": 1766330033662,
-        "text": "Codespaces secrets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/codespaces"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "nav.tabnav.d-flex.pt-3",
-        "lastSeenAt": 1766330032499,
-        "text": "Secrets or variables tab",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 3,
-        "firstSeenAt": 1766330032499,
-        "hint": "span.prc-Button-Label-FWkx3",
-        "lastSeenAt": 1766330034752,
-        "text": "New repository secret",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 3,
-        "firstSeenAt": 1766330032499,
-        "hint": "span.Text__StyledText-sc-1klmep6-0.jXEQtz.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766330034752,
-        "text": "This repository has no secrets.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 3,
-        "firstSeenAt": 1766330032499,
-        "hint": "h2.Text__StyledText-sc-1klmep6-0.brhHKj.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766330034752,
-        "text": "Repository secrets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "span.prc-Button-Label-FWkx3",
-        "lastSeenAt": 1766330032499,
-        "text": "Manage environment secrets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "span.Text__StyledText-sc-1klmep6-0.jXEQtz.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766330032499,
-        "text": "This environment has no secrets.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "h2.Text__StyledText-sc-1klmep6-0.brhHKj.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766330032499,
-        "text": "Environment secrets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "a.tabnav-tab",
-        "lastSeenAt": 1766330032499,
-        "text": "Variables",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "p",
-        "lastSeenAt": 1766330032499,
-        "text": "Anyone with collaborator access to this repository can use these secrets and variables for actions. They are not passed to workflows that are triggered by a pull request from a fork.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330032499,
-        "text": "Learn more about variables",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "p",
-        "lastSeenAt": 1766330032499,
-        "text": "data.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "strong",
-        "lastSeenAt": 1766330032499,
-        "text": "non-sensitive",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "p",
-        "lastSeenAt": 1766330032499,
-        "text": ". Variables are shown as plain text and are used for",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330032499,
-        "text": "Learn more about encrypted secrets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "p",
-        "lastSeenAt": 1766330032499,
-        "text": "and are used for sensitive data.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 3,
-        "firstSeenAt": 1766330032499,
-        "hint": "strong",
-        "lastSeenAt": 1766330034751,
-        "text": "encrypted",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "p",
-        "lastSeenAt": 1766330032499,
-        "text": "Secrets and variables allow you to manage reusable configuration data. Secrets are",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330032499,
-        "hint": "h2.Subhead-heading.Subhead-heading--large",
-        "lastSeenAt": 1766330032499,
-        "text": "Actions secrets and variables",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/secrets/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030009,
-        "hint": "p",
-        "lastSeenAt": 1766330030009,
-        "text": "to learn more.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030009,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330030009,
-        "text": "guide on deploy keys",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030009,
-        "hint": "p",
-        "lastSeenAt": 1766330030009,
-        "text": "Check out our",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030009,
-        "hint": "h2.blankslate-heading",
-        "lastSeenAt": 1766330030009,
-        "text": "There are no deploy keys for this repository",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030009,
-        "hint": "p.Subhead-description.mb-4",
-        "lastSeenAt": 1766330030009,
-        "text": "instead.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030009,
-        "hint": "p.Subhead-description.mb-4",
-        "lastSeenAt": 1766330030009,
-        "text": "use an SSH key to grant readonly or write access to a single repository. They are not protected by a passphrase and can be a security risk if your server is compromised. If you have a complex project or want more fine-grain control over permissions, consider using",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030009,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330030009,
-        "text": "Add deploy key",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030008,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330030008,
-        "text": "enhanced security",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030008,
-        "hint": "p.Banner-title",
-        "lastSeenAt": 1766330030008,
-        "text": "instead for fine grained control over repositories and",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330030008,
-        "hint": "p.Banner-title",
-        "lastSeenAt": 1766330030008,
-        "text": "We recommend using",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/keys"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330029409,
-        "text": "Enable CodeQL",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f5.color-fg-default.text-bold",
-        "lastSeenAt": 1766330029409,
-        "text": "On a weekly schedule",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330029409,
-        "text": "protected branches",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f6.color-fg-subtle.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "and",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f5.color-fg-default.text-bold",
-        "lastSeenAt": 1766330029409,
-        "text": "On push and pull requests to",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f6.color-fg-subtle.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "These events will trigger a new scan.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f4.color-fg-default.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "Scan events",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.ml-2.f6.color-fg-muted",
-        "lastSeenAt": 1766330029409,
-        "text": "Loading runner info...",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f6.color-fg-subtle.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "This is the runner default setup will use to run",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f4.color-fg-default.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "Runner type",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f6.color-fg-subtle.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "CodeQL high-precision queries.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f6.color-fg-subtle.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "to run against your code.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330029409,
-        "text": "Group of queries",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f4.color-fg-default.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "Query suites",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f6.color-fg-subtle.mt-1",
-        "lastSeenAt": 1766330029409,
-        "text": "1 of 1 languages selected",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.color-fg-default.text-bold",
-        "lastSeenAt": 1766330029409,
-        "text": "C#",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "p.f6.color-fg-subtle.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "These languages were detected on the default branch of this repository.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "h1.Overlay-title",
-        "lastSeenAt": 1766330029409,
-        "text": "CodeQL default configuration",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.ActionListItem-description",
-        "lastSeenAt": 1766330029409,
-        "text": "Customize your CodeQL configuration via a YAML file checked into the repository.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330029409,
-        "text": "Advanced",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.ActionListItem-description",
-        "lastSeenAt": 1766330029409,
-        "text": "CodeQL will automatically find the best configuration for your repository.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
+        "count": 2,
+        "firstSeenAt": 1766331709646,
+        "hint": "span.PremiumRequestsUsageTable-module__hintText--r4deS.prc-Text-Text-9mHv3",
+        "lastSeenAt": 1766331709647,
+        "text": "Usage for Dec 1 - Dec 31, 2025. Price per premium request is $0.04.",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/premium_requests_usage"
     },
     {
         "count": 2,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330029409,
-        "text": "Default",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029409,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330029409,
-        "text": "Set up",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029158,
-        "hint": "button.btn.Button--secondary.Button--medium",
-        "lastSeenAt": 1766330029158,
-        "text": "Dependabotセキュリティ更新を有効化",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029157,
-        "hint": "button.btn.Button--secondary.Button--medium",
-        "lastSeenAt": 1766330029157,
-        "text": "Dependabotアラートを有効化",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "button.ToggleSwitch-track",
-        "lastSeenAt": 1766330029036,
-        "text": "Copilot Autofix enablement",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "a.Button--secondary.Button--medium.Button",
-        "lastSeenAt": 1766330029036,
-        "text": "Enable Dependabot version updates",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "button.btn.Button--secondary.Button--medium",
-        "lastSeenAt": 1766330029036,
-        "text": "Enable Dependabot grouped security updates",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "p.mt-1",
-        "lastSeenAt": 1766330029036,
-        "text": "No additional licenses will be consumed.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "li",
-        "lastSeenAt": 1766330029036,
-        "text": "Enable secret scanning alerts",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "p.my-2",
-        "lastSeenAt": 1766330029036,
-        "text": "This will enable Secret Protection for your repository.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029036,
-        "hint": "h1.Overlay-title",
-        "lastSeenAt": 1766330029036,
-        "text": "Enable Secret Protection",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330029036,
-        "text": "Token scanning enabled",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029036,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330029036,
-        "text": "Learn more about partner patterns",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "p.mb-0.color-fg-muted.text-small",
-        "lastSeenAt": 1766330029035,
-        "text": "GitHub will always send alerts to partners for detected secrets in public repositories.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "h3",
-        "lastSeenAt": 1766330029035,
-        "text": "Secret Protection",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330029035,
-        "text": "Errors and warnings",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330029035,
-        "text": "Only errors",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.color-fg-muted",
-        "lastSeenAt": 1766330029035,
-        "text": "Standard alert severity level:",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330029035,
-        "text": "Any",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330029035,
-        "text": "Medium or higher",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330029035,
-        "text": "Only critical",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330029035,
-        "text": "High or higher",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.color-fg-muted",
-        "lastSeenAt": 1766330029035,
-        "text": "Security alert severity level:",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "p.text-small.color-fg-muted.m-0",
-        "lastSeenAt": 1766330029035,
-        "text": "to prevent a branch from merging when these checks fail.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330029035,
-        "text": "Create a branch ruleset",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "p.text-small.color-fg-muted.m-0",
-        "lastSeenAt": 1766330029035,
-        "text": "Select the alert severity level for code scanning check runs to fail.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "h5",
-        "lastSeenAt": 1766330029035,
-        "text": "Check runs failure threshold",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "h4.mt-4.mb-2",
-        "lastSeenAt": 1766330029035,
-        "text": "Protection rules",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330029035,
-        "text": "limitations of autofix code suggestions",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "p.text-small.color-fg-muted.m-0",
-        "lastSeenAt": 1766330029035,
-        "text": "Suggest fixes for CodeQL alerts using AI. CodeQL default or advanced setup must be enabled for this feature to work. Learn more about the",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029035,
-        "hint": "h5",
-        "lastSeenAt": 1766330029035,
-        "text": "Copilot Autofix",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330029409,
-        "text": "Explore workflows",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "p.text-small.color-fg-muted.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "Add any third-party code scanning tool.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "h5",
-        "lastSeenAt": 1766330029409,
-        "text": "Other tools",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330029409,
-        "text": "Retry",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330029409,
-        "text": "eligible",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "p.text-small.color-fg-muted.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "for",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330029409,
-        "text": "CodeQL",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "p.text-small.color-fg-muted.m-0",
-        "lastSeenAt": 1766330029409,
-        "text": "Identify vulnerabilities and errors with",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "h5",
-        "lastSeenAt": 1766330029409,
-        "text": "CodeQL analysis",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330029035,
-        "hint": "h4.mt-4.mb-2",
-        "lastSeenAt": 1766330029409,
-        "text": "Tools",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.mb-3.pb-2.color-fg-muted",
-        "lastSeenAt": 1766330029034,
-        "text": "Automatically detect common vulnerabilities and coding errors.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "h3",
-        "lastSeenAt": 1766330029034,
-        "text": "Code scanning",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330029034,
-        "text": "Learn more about configuring a dependabot.yml file",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.mb-0",
-        "lastSeenAt": 1766330029034,
-        "text": "Allow Dependabot to open pull requests automatically to keep your dependencies up-to-date when new versions are available.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "h4",
-        "lastSeenAt": 1766330029034,
-        "text": "Dependabot version updates",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.ws-normal.mt-2",
-        "lastSeenAt": 1766330029034,
-        "text": "Grouped security updates needs the dependency graph, Dependabot alerts and Dependabot security updates to be enabled, so we'll turn them on too",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330029034,
-        "text": "learn more here",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.mb-0",
-        "lastSeenAt": 1766330029034,
-        "text": "Groups all available updates that resolve a Dependabot alert into one pull request (per package manager and directory of requirement manifests). This option may be overridden by group rules specified in dependabot.yml -",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.ws-normal.mt-2",
-        "lastSeenAt": 1766330029034,
-        "text": "Dependabot security updates needs the dependency graph and Dependabot alerts to be enabled, so we'll turn them on too.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.mb-0",
-        "lastSeenAt": 1766330029034,
-        "text": "Enabling this option will result in Dependabot automatically attempting to open pull requests to resolve every open Dependabot alert with an available patch.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.ws-normal.mt-2",
-        "lastSeenAt": 1766330029034,
-        "text": "Dependabot alerts needs the dependency graph to be enabled, so we'll turn that on too.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.mb-0",
-        "lastSeenAt": 1766330029034,
-        "text": "Receive alerts for vulnerabilities that affect your dependencies and manually generate Dependabot pull requests to resolve these vulnerabilities.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p.mb-0",
-        "lastSeenAt": 1766330029034,
-        "text": "Allow your community to privately report potential security vulnerabilities to maintainers and repository owners.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330029034,
-        "hint": "p",
-        "lastSeenAt": 1766330029034,
-        "text": "Advanced Security features help keep your repository secure and updated. By enabling these features, you're granting us permission to perform read-only analysis on your repository.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/security_analysis"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027477,
-        "hint": "ul.ActionListWrap.p-2",
-        "lastSeenAt": 1766330027477,
-        "text": "Select folder options",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027477,
-        "hint": "ul.ActionListWrap.p-2",
-        "lastSeenAt": 1766330027477,
-        "text": "Select branch options",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "svg",
-        "lastSeenAt": 1766330027476,
-        "text": "Page source has been saved",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330027476,
-        "hint": "action-menu",
-        "lastSeenAt": 1766330027476,
-        "text": "Source",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "a.Link.Link--underline",
-        "lastSeenAt": 1766330027476,
-        "text": "Learn more about the visibility of your GitHub Pages site.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "p",
-        "lastSeenAt": 1766330027476,
-        "text": "With a GitHub Enterprise account, you can restrict access to your GitHub Pages site by publishing it privately. You can use privately published sites to share your internal documentation or knowledge base with members of your enterprise. You can try GitHub Enterprise risk-free for 30 days.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "span.Label.Label--purple",
-        "lastSeenAt": 1766330027476,
-        "text": "GitHub Enterprise",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "h3.text-normal",
-        "lastSeenAt": 1766330027476,
-        "text": "Visibility",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330027476,
-        "text": "View workflow runs.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "p.mt-3",
-        "lastSeenAt": 1766330027476,
-        "text": "Workflow details will appear here once your site has been deployed.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330027476,
-        "text": "create your own",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "p.mt-2",
-        "lastSeenAt": 1766330027476,
-        "text": ", or",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330027476,
-        "text": "browse all workflows",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "p.mt-2",
-        "lastSeenAt": 1766330027476,
-        "text": "Use a suggested workflow,",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330027476,
-        "text": "/docs",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "h1.Overlay-title",
-        "lastSeenAt": 1766330027476,
-        "text": "Select folder",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 3,
-        "firstSeenAt": 1766330027476,
+        "firstSeenAt": 1766331709646,
         "hint": "span",
-        "lastSeenAt": 1766330027477,
-        "text": "/ (root)",
+        "lastSeenAt": 1766331709647,
+        "text": ". Monthly limit resets in 11 days on 2026年1月1日.",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330027476,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330029409,
-        "text": "main",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "h1.Overlay-title",
-        "lastSeenAt": 1766330027476,
-        "text": "Select branch",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/premium_requests_usage"
     },
     {
         "count": 5,
-        "firstSeenAt": 1766330027476,
+        "firstSeenAt": 1766331708691,
+        "hint": "button.prc-Button-ButtonBase-9n-Xk.IconButton__StyledIconButton-sc-i53dt6-0.kfBpMe",
+        "lastSeenAt": 1766331708691,
+        "text": "View actions for CustomerResource Rakua-Laqua's budget",
+        "type": "aria-label",
+        "url": "https://github.com/settings/billing/budgets"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331706120,
+        "hint": "h3.h5",
+        "lastSeenAt": 1766331706120,
+        "text": "GitHub Pro",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/licensing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331706120,
         "hint": "span",
-        "lastSeenAt": 1766330029035,
-        "text": "None",
+        "lastSeenAt": 1766331706120,
+        "text": "GitHub Copilot",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/licensing"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330027476,
-        "text": "Learn more about configuring the publishing source for your site",
+        "firstSeenAt": 1766331702792,
+        "hint": "strong",
+        "lastSeenAt": 1766331702792,
+        "text": "invoices",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330027476,
-        "hint": "p",
-        "lastSeenAt": 1766330027476,
-        "text": "GitHub Pages is currently disabled. Select a source below to enable GitHub Pages for this repository.",
+        "firstSeenAt": 1766331702791,
+        "hint": "span",
+        "lastSeenAt": 1766331702791,
+        "text": "expiring 2/2027",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330027475,
-        "hint": "span.ActionListItem-description",
-        "lastSeenAt": 1766330027475,
-        "text": "Classic Pages experience",
+        "firstSeenAt": 1766331702791,
+        "hint": "span.d-block",
+        "lastSeenAt": 1766331702791,
+        "text": "ending",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330027475,
-        "hint": "span.ActionListItem-description",
-        "lastSeenAt": 1766330027475,
-        "text": "Best for using frameworks and customizing your build process",
+        "firstSeenAt": 1766331702791,
+        "hint": "option",
+        "lastSeenAt": 1766331702791,
+        "text": "Yukon",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330027475,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330027475,
-        "text": "Deploy from a branch",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330027475,
-        "hint": "label",
-        "lastSeenAt": 1766330027475,
-        "text": "Source",
+        "firstSeenAt": 1766331702791,
+        "hint": "option",
+        "lastSeenAt": 1766331702791,
+        "text": "Saskatchewan",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330027475,
-        "hint": "h2.text-normal.mt-3.mb-1",
-        "lastSeenAt": 1766330027475,
-        "text": "Build and deployment",
+        "firstSeenAt": 1766331702791,
+        "hint": "option",
+        "lastSeenAt": 1766331702791,
+        "text": "Quebec",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330027475,
-        "hint": "p",
-        "lastSeenAt": 1766330027475,
-        "text": "is designed to host your personal, organization, or project pages from a GitHub repository.",
+        "firstSeenAt": 1766331702791,
+        "hint": "option",
+        "lastSeenAt": 1766331702791,
+        "text": "Prince Edward Island",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330027475,
-        "hint": "h2.Subhead-heading.Subhead-heading--large",
-        "lastSeenAt": 1766330027475,
-        "text": "GitHub Pages",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/pages"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330026275,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330026275,
-        "text": "Learn more about setting up prebuilds",
+        "firstSeenAt": 1766331702791,
+        "hint": "option",
+        "lastSeenAt": 1766331702791,
+        "text": "Ontario",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/codespaces"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330026275,
-        "hint": "p.color-fg-subtle",
-        "lastSeenAt": 1766330026275,
-        "text": "Prebuild configurations speed up Codespace creations significantly by pre-executing all the tasks required to build your development environment.",
+        "firstSeenAt": 1766331702791,
+        "hint": "option",
+        "lastSeenAt": 1766331702791,
+        "text": "Nunavut",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/codespaces"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330026275,
-        "hint": "h4",
-        "lastSeenAt": 1766330026275,
-        "text": "There are no prebuilds configured for this repository",
+        "firstSeenAt": 1766331702791,
+        "hint": "option",
+        "lastSeenAt": 1766331702791,
+        "text": "Northwest Territories",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/codespaces"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330026275,
-        "hint": "a.btn-primary.btn",
-        "lastSeenAt": 1766330026275,
-        "text": "Set up prebuild",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/codespaces"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330026275,
-        "hint": "h3.Subhead-heading.Subhead-heading--large",
-        "lastSeenAt": 1766330026275,
-        "text": "Prebuild configuration",
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Nova Scotia",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/codespaces"
-    },
-    {
-        "count": 11,
-        "firstSeenAt": 1766330024821,
-        "hint": "title",
-        "lastSeenAt": 1766330040528,
-        "text": "Copilot コーディングエージェント",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/environments"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330024821,
-        "hint": "p",
-        "lastSeenAt": 1766330024821,
-        "text": "Environments are used by your workflows for deployments.",
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Newfoundland and Labrador",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/environments"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330024821,
-        "hint": "h2.blankslate-heading",
-        "lastSeenAt": 1766330024821,
-        "text": "There are no environments for this repository",
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "New Brunswick",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/environments"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330024821,
-        "hint": "a.btn",
-        "lastSeenAt": 1766330024821,
-        "text": "New environment",
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Manitoba",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/environments"
-    },
-    {
-        "count": 5,
-        "firstSeenAt": 1766330023574,
-        "hint": "div.cm-help-panel.cm-panel",
-        "lastSeenAt": 1766330023575,
-        "text": "to move to the next interactive element on the page.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 5,
-        "firstSeenAt": 1766330023574,
-        "hint": "div.cm-help-panel.cm-panel",
-        "lastSeenAt": 1766330023575,
-        "text": "then",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 5,
-        "firstSeenAt": 1766330023574,
-        "hint": "kbd",
-        "lastSeenAt": 1766330023575,
-        "text": "esc",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 5,
-        "firstSeenAt": 1766330023574,
-        "hint": "div.cm-help-panel.cm-panel",
-        "lastSeenAt": 1766330023575,
-        "text": "key moving focus. Alternatively, use",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 10,
-        "firstSeenAt": 1766330023574,
-        "hint": "kbd",
-        "lastSeenAt": 1766330023575,
-        "text": "tab",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 5,
-        "firstSeenAt": 1766330023574,
-        "hint": "div.cm-help-panel.cm-panel",
-        "lastSeenAt": 1766330023575,
-        "text": "to toggle the",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 5,
-        "firstSeenAt": 1766330023574,
-        "hint": "kbd",
-        "lastSeenAt": 1766330023575,
-        "text": "Control + Shift + m",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 5,
-        "firstSeenAt": 1766330023574,
-        "hint": "div.cm-help-panel.cm-panel",
-        "lastSeenAt": 1766330023575,
-        "text": "Use",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "span.prc-Button-Label-FWkx3",
-        "lastSeenAt": 1766330023574,
-        "text": "Save MCP configuration",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "span.prc-FormControl-Caption-GNJPU.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766330023574,
-        "text": "Your configuration will be validated on save.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330023430,
-        "hint": "span.Text__StyledText-sc-1klmep6-0.hGJZKz.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766330023430,
-        "text": "Loading...",
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "British Columbia",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "label.prc-components-Label-2mrqP",
-        "lastSeenAt": 1766330023574,
-        "text": "MCP configuration",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "a.prc-Link-Link-9ZwDx",
-        "lastSeenAt": 1766330023574,
-        "text": "Learn how to write your JSON MCP configuration",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "p.mb-0",
-        "lastSeenAt": 1766330023574,
-        "text": "You can use MCP to extend the capabilities of Copilot coding agent by connecting it to other tools and services.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "p.mt-1.mb-2",
-        "lastSeenAt": 1766330023574,
-        "text": "The MCP is an open standard that defines how applications share context with large language models (LLMs). MCP provides a standardized way to connect AI models to different data sources and tools, enabling them to work together more effectively.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "h2.prc-Heading-Heading-MtWFE",
-        "lastSeenAt": 1766330023574,
-        "text": "Model Context Protocol (MCP)",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "p.Description-module__Text--xBFM4",
-        "lastSeenAt": 1766330023574,
-        "text": "Allow access to specific domains, IP addresses, or URLs.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "h3.Heading-sc-1vc165i-0.Title-module__Heading--ekEz6",
-        "lastSeenAt": 1766330023574,
-        "text": "Custom allowlist",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "p.Description-module__Text--xBFM4",
-        "lastSeenAt": 1766330023574,
-        "text": "Allow access to locations frequently used to install tools, packages, and dependencies",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "h3.Heading-sc-1vc165i-0.Title-module__Heading--ekEz6.d-flex",
-        "lastSeenAt": 1766330023574,
-        "text": "Recommended allowlist",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "span.Description-module__Box--vsN3H",
-        "lastSeenAt": 1766330023574,
-        "text": "Limit Copilot coding agent’s Internet access to only allow access to allowlisted locations",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "span.prc-Label-Label-qG-Zu",
-        "lastSeenAt": 1766330023574,
-        "text": "Recommended",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "h3.Heading-sc-1vc165i-0.Title-module__Heading--ekEz6.d-flex",
-        "lastSeenAt": 1766330023574,
-        "text": "Enable firewall",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "a.prc-Link-Link-9ZwDx",
-        "lastSeenAt": 1766330023574,
-        "text": "Learn more about customizing network access",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "p.mt-1.mb-0",
-        "lastSeenAt": 1766330023574,
-        "text": "Ensure that the agent only accesses approved network resources during code generation and execution.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "h2.prc-Heading-Heading-MtWFE",
-        "lastSeenAt": 1766330023574,
-        "text": "Internet access",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "a.prc-Link-Link-9ZwDx",
-        "lastSeenAt": 1766330023574,
-        "text": "Learn more about Copilot coding agent",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330023430,
-        "hint": "p.mb-0",
-        "lastSeenAt": 1766330023574,
-        "text": "With Copilot coding agent, developers can delegate tasks to Copilot, freeing them to focus on the creative, complex, and high-impact work that matters most. Assign an issue to Copilot, wait for the agent to request review, then leave feedback on the pull request to iterate.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/coding_agent"
+        "url": "https://github.com/settings/billing/payment_information"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "button.ToggleSwitch-track",
-        "lastSeenAt": 1766330021586,
-        "text": "Repository code review custom instructions enablement",
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Alberta",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Wyoming",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Wisconsin",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "West Virginia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Washington",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Virginia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Vermont",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Utah",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Texas",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Tennessee",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "South Dakota",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "South Carolina",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Rhode Island",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Pennsylvania",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Oregon",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Oklahoma",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Ohio",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "North Dakota",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "North Carolina",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "New York",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "New Mexico",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "New Jersey",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "New Hampshire",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Nevada",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Nebraska",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Montana",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Missouri",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Mississippi",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Minnesota",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Michigan",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Massachusetts",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Maryland",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Maine",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Louisiana",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Kentucky",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Kansas",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Iowa",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Indiana",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Illinois",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Idaho",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Hawaii",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Florida",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Washington DC",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Delaware",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Connecticut",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Colorado",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "California",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Armed Forces Pacific",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Armed Forces Americas",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Armed Forces",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Arkansas",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Arizona",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Alaska",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Alabama",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Zimbabwe",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Zambia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Yemen",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Western Sahara",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Wallis and Futuna Islands",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Virgin Islands, U.S.",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Virgin Islands, British",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Venezuela",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Vatican City",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Vanuatu",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Uzbekistan",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Uruguay",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "United States of America",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "United States Minor Outlying Islands",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "United Arab Emirates",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Ukraine",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Uganda",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Tuvalu",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Turks and Caicos Islands",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Turkmenistan",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Türkiye",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Tunisia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Trinidad and Tobago",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Tonga",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Tokelau",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Togo",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Timor-Leste",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Tanzania",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Tajikistan",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Syria",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Swaziland",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Svalbard and Jan Mayen Islands",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Suriname",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Sudan",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702790,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Sri Lanka",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "South Sudan",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "South Georgia and South Sandwich Islands",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Somalia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Solomon Islands",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Slovenia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Slovakia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Sint Maarten (Dutch part)",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Sierra Leone",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Seychelles",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Serbia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Senegal",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saudi Arabia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Sao Tome and Principe",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "San Marino",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Samoa",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saint Vincent and the Grenadines",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saint Pierre and Miquelon",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saint Martin (French part)",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saint Lucia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saint Kitts and Nevis",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saint Helena",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Saint Barthélemy",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Rwanda",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Russian Federation",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Romania",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Reunion",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Qatar",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Puerto Rico",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Pitcairn",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Peru",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Paraguay",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Papua New Guinea",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Panama",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Palestine",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Palau",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Pakistan",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Oman",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Northern Mariana Islands",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Norfolk Island",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Niue",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Nigeria",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Niger",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "Nicaragua",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702789,
+        "hint": "option",
+        "lastSeenAt": 1766331702789,
+        "text": "New Caledonia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766331702788,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "Georgia",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766331702788,
+        "hint": "option",
+        "lastSeenAt": 1766331702790,
+        "text": "American Samoa",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331702787,
+        "hint": "li.pb-2.text-small",
+        "lastSeenAt": 1766331702787,
+        "text": "Masato Yamauchi",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing/payment_information"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331697683,
+        "hint": "a.d-inline-block.v-align-middle.mt-1",
+        "lastSeenAt": 1766331697683,
+        "text": "Organizationの詳細はこちら",
         "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
+        "url": "https://github.com/settings/billing/subscriptions"
     },
     {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330021586,
-        "text": "Create ruleset for default branch",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "h4.mb-3",
-        "lastSeenAt": 1766330021586,
-        "text": "Automate Copilot code reviews and manage static analysis tools",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330021586,
-        "text": "View all rulesets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "h2.Box-title.flex-1",
-        "lastSeenAt": 1766330021586,
-        "text": "No rulesets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330021586,
-        "text": "Learn how to set up rulesets.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "div",
-        "lastSeenAt": 1766330021586,
-        "text": "Use rulesets to automatically request reviews, manage static tools and more.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "h2.Subhead-heading.Subhead-heading--large.f4",
-        "lastSeenAt": 1766330021586,
-        "text": "Manage Copilot code review automations and tools",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "p",
-        "lastSeenAt": 1766330021586,
-        "text": "when reviewing pull requests.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330021586,
-        "text": "repository custom instructions",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "p",
-        "lastSeenAt": 1766330021586,
-        "text": "Copilot references",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "p.text-bold.mb-1",
-        "lastSeenAt": 1766330021586,
-        "text": "Use custom instructions when reviewing pull requests",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "h2.Subhead-heading.Subhead-heading--large.f4",
-        "lastSeenAt": 1766330021586,
-        "text": "General settings",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330021586,
-        "text": "Learn more about Copilot code reviews.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "p.mb-3",
-        "lastSeenAt": 1766330021586,
-        "text": "With Copilot code review, you can add Copilot as a reviewer to your pull requests, including drafts. You can also select lines in Visual Studio Code and ask Copilot to review and comment on specific sections.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330021586,
-        "hint": "h1.Subhead-heading.Subhead-heading--large.f3",
-        "lastSeenAt": 1766330021586,
-        "text": "Copilot Code review",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/copilot/code_review"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330019504,
-        "hint": "title",
-        "lastSeenAt": 1766330021587,
-        "text": "Minecraft-Mod-Folder-Organizer-GUI-Tool settings · GitHub Models access policy",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/hooks"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330019504,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330019830,
-        "text": "Webhooks Guide",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/hooks"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330019504,
-        "hint": "p",
-        "lastSeenAt": 1766330019830,
-        "text": "Webhooks allow external services to be notified when certain events happen. When the specified events happen, we'll send a POST request to each of the URLs you provide. Learn more in our",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/hooks"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330019503,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330019830,
-        "text": "Add webhook",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/hooks"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330018297,
-        "hint": "span.sr-only",
-        "lastSeenAt": 1766330018297,
-        "text": "Models status:",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/models/access-policy"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330018297,
-        "hint": "a.prc-Link-Link-9ZwDx",
-        "lastSeenAt": 1766330018297,
-        "text": "Learn more about Models.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/models/access-policy"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330018297,
-        "hint": "p.fgColor-muted",
-        "lastSeenAt": 1766330018297,
-        "text": "If disabled, the Models tab will be hidden, and the prompt editor and comparison tooling evaluations will be unavailable.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/models/access-policy"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330018297,
-        "hint": "h3.mb-2.prc-Heading-Heading-MtWFE",
-        "lastSeenAt": 1766330018297,
-        "text": "Models in this repository",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/models/access-policy"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330015203,
-        "hint": "title",
-        "lastSeenAt": 1766330015203,
-        "text": "Runners · Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions/runners"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330015202,
-        "hint": "p",
-        "lastSeenAt": 1766330015202,
-        "text": "to run actions on your own servers.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions/runners"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330015202,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330015202,
-        "text": "Learn more about using runners",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions/runners"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330015202,
-        "hint": "h3.mb-1",
-        "lastSeenAt": 1766330015202,
-        "text": "There are no runners configured",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions/runners"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330015202,
-        "hint": "a.btn-primary.btn-sm.btn",
-        "lastSeenAt": 1766330015202,
-        "text": "New self-hosted runner",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions/runners"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330015202,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330015202,
-        "text": "Learn more about self-hosted runners",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions/runners"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330015202,
-        "hint": "p.mb-0.pt-2",
-        "lastSeenAt": 1766330015202,
-        "text": "Host your own runners and customize the environment used to run jobs in your GitHub Actions workflows.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions/runners"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330010805,
-        "hint": "title",
-        "lastSeenAt": 1766330015203,
-        "text": "Actions settings · Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "textarea.form-control.FormControl-input.FormControl-textarea",
-        "lastSeenAt": 1766330010805,
-        "text": "Enter a comma-separated list of actions and reusable workflows",
-        "type": "placeholder",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "button.FormField-input.flex-self-start.Button--secondary",
-        "lastSeenAt": 1766330010805,
-        "text": "Save workflow permissions settings",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "button.FormField-input.flex-self-start.Button--secondary",
-        "lastSeenAt": 1766330010805,
-        "text": "Save fork pull request workflows setting",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "button.Button--secondary.Button--medium.Button",
-        "lastSeenAt": 1766330010805,
-        "text": "Save default cache size limit",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "button.Button--secondary.Button--medium.Button",
-        "lastSeenAt": 1766330010805,
-        "text": "Save default cache retention.",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
+        "count": 3,
+        "firstSeenAt": 1766331688601,
         "hint": "input.form-control",
-        "lastSeenAt": 1766330010805,
-        "text": "Cache retention limit",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "button.Button--secondary.Button--medium.Button",
-        "lastSeenAt": 1766330010805,
-        "text": "Save artifact and log retention setting",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010805,
-        "text": "Allow GitHub Actions to create and approve pull requests",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "legend.FormControl-label",
-        "lastSeenAt": 1766330010805,
-        "text": "Choose whether GitHub Actions can create pull requests or submit approving pull request reviews.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010805,
-        "text": "Workflows have read permissions in the repository for the contents and packages scopes only.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010805,
-        "text": "Read repository contents and packages permissions",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010805,
-        "text": "Workflows have read and write permissions in the repository for all scopes.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010805,
-        "text": "Read and write permissions",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330010805,
-        "text": "Learn more about managing permissions.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "p",
-        "lastSeenAt": 1766330010805,
-        "text": "Choose the default permissions granted to the GITHUB_TOKEN when running workflows in this repository. You can specify more granular permissions in the workflow using YAML.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010805,
-        "hint": "h2.mb-2",
-        "lastSeenAt": 1766330010805,
-        "text": "Workflow permissions",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010804,
-        "text": "All users that are not a member or owner of this repository will require approval to run workflows.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Require approval for all external contributors",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010804,
-        "text": "Only users who have never had a commit or pull request merged into this repository will require approval to run workflows.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Require approval for first-time contributors",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010804,
-        "text": "Only users who are both new on GitHub and who have never had a commit or pull request merged into this repository will require approval to run workflows.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Require approval for first-time contributors who are new to GitHub",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330010804,
-        "text": "approve the pull request workflow to be run.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "p",
-        "lastSeenAt": 1766330010804,
-        "text": "Choose which subset of users will require approval before running workflows on their pull requests. Both the pull request author and the actor of the pull request event triggering the workflow will be checked to determine if approval is required. If approval is required, a user with write access to the repository must",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "h2.mb-2",
-        "lastSeenAt": 1766330010804,
-        "text": "Approval for running fork pull request workflows from contributors",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "GB.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Total cache size can be set up to",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Use this limit to control when cache evictions occur. Exceeding this limit will trigger evictions of the least recently used cache. Note this limit should not be used for controlling costs.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Cache size must be 10 GB or more.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Cache size must be less than or equal to 10000 GB.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "GB",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "strong",
-        "lastSeenAt": 1766330010804,
-        "text": "Cache size eviction limit",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Retention can be set up to",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Retention period must be 1 days or more.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Retention period must be less than or equal to 90 days.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "strong",
-        "lastSeenAt": 1766330010804,
-        "text": "Cache retention",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Choose the repository settings for cache.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "h2.mb-2",
-        "lastSeenAt": 1766330010804,
-        "text": "Cache",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "a.Link--inTextBlock.Link",
-        "lastSeenAt": 1766330010804,
-        "text": "Learn more about the artifact and log retention policy.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "days.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "There is a maximum limit of",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Duration must be 1 or more.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Duration must be 90 or less",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Choose the repository settings for artifacts and logs.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766330010804,
-        "hint": "h2.mb-2",
-        "lastSeenAt": 1766330010804,
-        "text": "Artifact and log retention",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Require actions to be pinned to a full-length commit SHA",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "wildcard pattern.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": ". By default, only allowed patterns specified in the list can be used. To allow all actions and reusable workflows except those that are explicitly blocked, add a",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "strong",
-        "lastSeenAt": 1766330010804,
-        "text": "only blocked patterns",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Your list contains",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "except those that are explicitly blocked.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "strong",
-        "lastSeenAt": 1766330010804,
-        "text": "allow all actions and reusable workflows",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "wildcard pattern, which will",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span",
-        "lastSeenAt": 1766330010804,
-        "text": "Your list contains a",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.text-small.color-fg-muted",
-        "lastSeenAt": 1766330010804,
-        "text": "Entire organization or repository examples:",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.text-small.color-fg-muted",
-        "lastSeenAt": 1766330010804,
-        "text": "Reusable workflow examples:",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.text-small.color-fg-muted",
-        "lastSeenAt": 1766330010804,
-        "text": "Action examples:",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.text-small.color-fg-muted",
-        "lastSeenAt": 1766330010804,
-        "text": "prefix to block.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.text-small.color-fg-muted",
-        "lastSeenAt": 1766330010804,
-        "text": "Wildcards, tags, and SHAs are allowed. Use",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Allow or block specified actions and reusable workflows",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330010804,
-        "text": "verified creators",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Allow actions by Marketplace",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Allow actions created by GitHub",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "a.Link--inTextBlock",
-        "lastSeenAt": 1766330010804,
-        "text": "Learn more about allowing specific actions and reusable workflows to run.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010804,
-        "text": "Any action or reusable workflow that matches the specified criteria, plus those defined in a repository within Rakua-Laqua, can be used.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Allow Rakua-Laqua, and select non-Rakua-Laqua, actions and reusable workflows",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010804,
-        "text": "Any action or reusable workflow defined in a repository within Rakua-Laqua can be used.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010804,
-        "text": "Allow Rakua-Laqua actions and reusable workflows",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010804,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010804,
-        "text": "The Actions tab is hidden and no workflows can run.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010803,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010803,
-        "text": "Disable actions",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010803,
-        "hint": "span.FormControl-caption",
-        "lastSeenAt": 1766330010803,
-        "text": "Any action or reusable workflow can be used, regardless of who authored it or where it is defined.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010803,
-        "hint": "label.FormControl-label",
-        "lastSeenAt": 1766330010803,
-        "text": "Allow all actions and reusable workflows",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330010803,
-        "hint": "h2.Subhead-heading.Subhead-heading--large",
-        "lastSeenAt": 1766330010803,
-        "text": "Actions permissions",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/actions"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330007737,
-        "hint": "title",
-        "lastSeenAt": 1766330007737,
-        "text": "Settings · Rulesets · Minecraft-Mod-Folder-Organizer-GUI-Tool",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/rules"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330007613,
-        "hint": "span.prc-Button-Label-FWkx3",
-        "lastSeenAt": 1766330007613,
-        "text": "New ruleset",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/rules"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330007613,
-        "hint": "a.prc-Link-Link-9ZwDx",
-        "lastSeenAt": 1766330007613,
-        "text": "Learn more about rulesets.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/rules"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330007613,
-        "hint": "p.color-fg-muted",
-        "lastSeenAt": 1766330007613,
-        "text": "Define whether collaborators can delete or force push and set requirements for any pushes, such as passing status checks or a linear commit history.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/rules"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330007613,
-        "hint": "h2.UpsellBanner-module__UpsellBannerHeading--zyM_e.prc-Heading-Heading-MtWFE",
-        "lastSeenAt": 1766330007613,
-        "text": "You haven't created any rulesets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/rules"
-    },
-    {
-        "count": 36,
-        "firstSeenAt": 1766330001900,
-        "hint": "link",
-        "lastSeenAt": 1766330040528,
-        "text": "GitHub",
-        "type": "title",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001900,
-        "hint": "title",
-        "lastSeenAt": 1766330001900,
-        "text": "Settings · Tags · Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001900,
-        "hint": "input.js-repo-add-access-search-input.form-control.input-block",
-        "lastSeenAt": 1766330001900,
-        "text": "Find people",
-        "type": "placeholder",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001900,
-        "hint": "input.js-repo-add-access-search-input.form-control.input-block",
-        "lastSeenAt": 1766330001900,
-        "text": "Find people",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001900,
-        "hint": "span.js-selected-member-id",
-        "lastSeenAt": 1766330001900,
-        "text": "selection",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001900,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330001900,
-        "text": "Add",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330001899,
-        "text": "Add to repository",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "label",
-        "lastSeenAt": 1766330001899,
-        "text": "Search by username, full name, or email",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "h1.Overlay-title",
-        "lastSeenAt": 1766330001899,
-        "text": "Add people to Minecraft-Mod-Folder-Organizer-GUI-Tool",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330001899,
-        "text": "Add people",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "h3.mb-3",
-        "lastSeenAt": 1766330001899,
-        "text": "You haven't invited any collaborators yet",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 4,
-        "firstSeenAt": 1766330001899,
-        "hint": "h2.f2.text-normal.flex-auto",
-        "lastSeenAt": 1766330010805,
-        "text": "Manage access",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "p.f5.color-fg-muted",
-        "lastSeenAt": 1766330001899,
-        "text": "collaborators have access to this repository. Only you can contribute to this repository.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "span.flex-auto.f5.text-bold",
-        "lastSeenAt": 1766330001899,
-        "text": "Direct access",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "span.Button-label",
-        "lastSeenAt": 1766330001899,
-        "text": "Manage visibility",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "span.flex-1.color-fg-muted",
-        "lastSeenAt": 1766330001899,
-        "text": "This repository is public and visible to anyone",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766330001899,
-        "hint": "h1.f2.text-normal.flex-auto",
-        "lastSeenAt": 1766330001899,
-        "text": "Collaborators and teams",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/access"
-    },
-    {
-        "count": 2,
-        "firstSeenAt": 1766329961614,
-        "hint": "input.form-control",
-        "lastSeenAt": 1766330018421,
+        "lastSeenAt": 1766331706244,
         "text": "(repo:mona/a または repo:mona/b) かつ lang:python",
         "type": "placeholder",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
+        "url": "https://github.com/settings/education/benefits"
     },
     {
-        "count": 2,
-        "firstSeenAt": 1766329961614,
+        "count": 3,
+        "firstSeenAt": 1766331688601,
         "hint": "button.Link--secondary.underline-on-hover.border-0",
-        "lastSeenAt": 1766330018421,
+        "lastSeenAt": 1766331706244,
         "text": "Cookie を管理",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
+        "url": "https://github.com/settings/education/benefits"
     },
     {
-        "count": 2,
-        "firstSeenAt": 1766329961613,
+        "count": 3,
+        "firstSeenAt": 1766331688601,
         "hint": "a.footer-octicon.mr-2",
-        "lastSeenAt": 1766330018421,
+        "lastSeenAt": 1766331706244,
         "text": "GitHub ホームページ",
         "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
+        "url": "https://github.com/settings/education/benefits"
     },
     {
-        "count": 2,
-        "firstSeenAt": 1766329961613,
+        "count": 3,
+        "firstSeenAt": 1766331688600,
+        "hint": "span.ActionListItem-label",
+        "lastSeenAt": 1766331706243,
+        "text": "SSH/GPGキー",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766331688600,
+        "hint": "span.ActionListItem-label",
+        "lastSeenAt": 1766331709646,
+        "text": "Premiumリクエスト分析",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766331688600,
         "hint": "nav",
-        "lastSeenAt": 1766330018420,
+        "lastSeenAt": 1766331706242,
         "text": "GitHub パンくずリスト",
         "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766331688475,
+        "hint": "input.form-control",
+        "lastSeenAt": 1766331706121,
+        "text": "github-ruby",
+        "type": "placeholder",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766331688472,
+        "hint": "span.color-fg-muted",
+        "lastSeenAt": 1766331706118,
+        "text": "(Rakua-Laqua)",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766331688471,
+        "hint": "a.color-fg-default",
+        "lastSeenAt": 1766331708691,
+        "text": "Rakua-Laqua",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331553770,
+        "hint": "strong",
+        "lastSeenAt": 1766331553770,
+        "text": "May 31, 2027",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331553770,
+        "hint": "a.Link--inTextBlock",
+        "lastSeenAt": 1766331553770,
+        "text": "link",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331553770,
+        "hint": "p",
+        "lastSeenAt": 1766331553770,
+        "text": "Once the benefits become available, you will be able to access the Students Developer Pack offers",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766331553770,
+        "hint": "span.float-right",
+        "lastSeenAt": 1766331553770,
+        "text": "Student",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
+    },
+    {
+        "count": 12,
+        "firstSeenAt": 1766331553501,
+        "hint": "link",
+        "lastSeenAt": 1766331709647,
+        "text": "GitHub",
+        "type": "title",
+        "url": "https://github.com/settings/education/benefits"
     },
     {
         "count": 2,
-        "firstSeenAt": 1766329961479,
-        "hint": "input.form-control",
-        "lastSeenAt": 1766330018298,
-        "text": "github-ruby",
-        "type": "placeholder",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961479,
-        "hint": "nav",
-        "lastSeenAt": 1766330040528,
-        "text": "General settings",
-        "type": "aria-label",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
+        "firstSeenAt": 1766331553500,
+        "hint": "a.Link--inTextBlock",
+        "lastSeenAt": 1766331553770,
+        "text": "here",
+        "type": "textNode",
+        "url": "https://github.com/settings/education/benefits"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766329961478,
-        "hint": "a.Link",
-        "lastSeenAt": 1766329961478,
-        "text": "Go to rulesets to create new tag rules",
+        "firstSeenAt": 1766331553500,
+        "hint": "div.text-small.text-normal.color-fg-muted",
+        "lastSeenAt": 1766331553500,
+        "text": "You have a current student coupon applied. Find more information on your benefits",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
+        "url": "https://github.com/settings/education/benefits"
     },
     {
         "count": 1,
-        "firstSeenAt": 1766329961478,
-        "hint": "h3.blankslate-heading",
-        "lastSeenAt": 1766329961478,
-        "text": "Protected tags have been deprecated",
+        "firstSeenAt": 1766331553500,
+        "hint": "p.f4.color-fg-muted.mb-4",
+        "lastSeenAt": 1766331553500,
+        "text": "Get Copilot Pro for free, 180 monthly Codespaces hours for cloud coding, unlimited private repositories with GitHub Pro or Team, and dozens of premium tools in the Student Developer Pack.",
         "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766329961478,
-        "hint": "h1.Subhead-heading.Subhead-heading--large",
-        "lastSeenAt": 1766329961478,
-        "text": "Protected tags",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.Text__StyledText-sc-1klmep6-0.esnyic.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766329961478,
-        "text": "and can get started now by migrating to rulesets.",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766329961478,
-        "hint": "a.prc-Link-Link-9ZwDx",
-        "lastSeenAt": 1766329961478,
-        "text": "changelog",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.Text__StyledText-sc-1klmep6-0.esnyic.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766329961478,
-        "text": "Protected tags are being deprecated. To continue protecting tags, please migrate to a tag ruleset by August 30th. You can learn more about the sunset in our",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 1,
-        "firstSeenAt": 1766329961478,
-        "hint": "p.Text__StyledText-sc-1klmep6-0.gaqbwR.prc-Text-Text-9mHv3",
-        "lastSeenAt": 1766329961478,
-        "text": "Level up your tag protections with Repository Rules",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 21,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Autolink references",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 21,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Email notifications",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 21,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Dependabot",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Secrets and variables",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 22,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Deploy keys",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 21,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Advanced Security",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 21,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Environments",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Code review",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 22,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Webhooks",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 21,
-        "firstSeenAt": 1766329961478,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Runners",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 21,
-        "firstSeenAt": 1766329961477,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Rulesets",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961477,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040527,
-        "text": "Rules",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961476,
-        "hint": "h2.ActionList-sectionDivider-title",
-        "lastSeenAt": 1766330040527,
-        "text": "Code and automation",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961476,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040526,
-        "text": "Moderation options",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961476,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330040526,
-        "text": "Collaborators",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 20,
-        "firstSeenAt": 1766329961476,
-        "hint": "h1.sr-only",
-        "lastSeenAt": 1766330040526,
-        "text": "Settings: Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 12,
-        "firstSeenAt": 1766329961474,
-        "hint": "span.ActionListItem-label",
-        "lastSeenAt": 1766330018420,
-        "text": "Minecraft-Mod-Folder-Organizer-GUI-Tool",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
-    },
-    {
-        "count": 12,
-        "firstSeenAt": 1766329961474,
-        "hint": "span.AppHeader-context-item-label",
-        "lastSeenAt": 1766330018420,
-        "text": "Rakua-Laqua",
-        "type": "textNode",
-        "url": "https://github.com/Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool/settings/tag_protection"
+        "url": "https://github.com/settings/education/benefits"
     }
 ]
