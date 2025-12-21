@@ -54,6 +54,9 @@
 
     if (!/[A-Za-z]/.test(text)) return false;
 
+    // 日本語（ひらがな・カタカナ・漢字）を含む場合は翻訳済みとみなして除外
+    if (/[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]/.test(text)) return false;
+
     if (/https?:\/\//i.test(text)) return false;
     if (/\bwww\./i.test(text)) return false;
     if (/\b[a-f0-9]{7,40}\b/i.test(text)) return false;
