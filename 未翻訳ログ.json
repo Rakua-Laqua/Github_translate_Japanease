@@ -1,5 +1,1085 @@
 [
     {
+        "count": 2,
+        "firstSeenAt": 1766332696204,
+        "hint": "p.Banner-title",
+        "lastSeenAt": 1766332696329,
+        "text": "Something went really wrong, and we can’t process that file.",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332696204,
+        "hint": "p",
+        "lastSeenAt": 1766332696329,
+        "text": "Try again with a file that’s not empty.",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696204,
+        "hint": "p",
+        "lastSeenAt": 1766332696328,
+        "text": "Try again with GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, WEBP, BMP, C, COPILOTMD, CPP, CPUPROFILE, CS, CSS, CSV, DEBUG, DMP, DOC, DOCX, DRAWIO, EML, FODG, FODP, FODS, FODT, GZ, HTM, HTML, IPYNB, JAVA, JS, JSON, JSONC, LOG, MD, MP3, MSG, ODF, ODG, ODP, ODS, ODT, PATCH, PDB, PDF, PHP, PPTX, PY, RTF, SH, SQL, TGZ, TIF, TIFF, TS, TSV, TSX, TXT, WAV, XLS, XLSM, XLSX, XML, YAML, YML or ZIP.",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332696203,
+        "hint": "p.Banner-title",
+        "lastSeenAt": 1766332696328,
+        "text": "We don’t support that file type.",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332696203,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Menu",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696203,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Reference",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696203,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Mention",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696202,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Link",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696202,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Quote",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696202,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Italic",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696202,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Bold",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766332696202,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Heading",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766332696202,
+        "hint": "button.btn-link.tabnav-tab.write-tab",
+        "lastSeenAt": 1766332696329,
+        "text": "Write",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332696202,
+        "hint": "label.sr-only.position-absolute",
+        "lastSeenAt": 1766332696328,
+        "text": "Comment",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332696202,
+        "hint": "p",
+        "lastSeenAt": 1766332696202,
+        "text": "Saved replies are re-usable text snippets that you can use throughout GitHub comment fields. Saved replies can save you time if you’re often typing similar responses.",
+        "type": "textNode",
+        "url": "https://github.com/settings/replies"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332691236,
+        "hint": "p.Description-module__Text--xBFM4",
+        "lastSeenAt": 1766332691236,
+        "text": "Choose which repositories Copilot coding agent should be enabled in. Copilot coding agent will only be available where it is enabled for the repository and in the Copilot license policies.",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/coding_agent"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332691236,
+        "hint": "p",
+        "lastSeenAt": 1766332691236,
+        "text": "With Copilot coding agent, you can delegate tasks to Copilot, freeing you to focus on the creative, complex, and high-impact work that matters most. Simply assign an issue to Copilot, wait for the agent to request your review, then leave feedback on the pull request to iterate.",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/coding_agent"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681940,
+        "hint": "p",
+        "lastSeenAt": 1766332681940,
+        "text": "Organizations can provide their members (including you) and their teams access to GitHub Copilot.",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681940,
+        "hint": "div.mb-4.mt-1.text-small",
+        "lastSeenAt": 1766332681940,
+        "text": "It can take up to 30 minutes for the changes to take effect. Restart your code editor for the changes to take effect immediately.",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681940,
+        "hint": "p.mt-1.color-fg-muted.text-small",
+        "lastSeenAt": 1766332681940,
+        "text": "For more information about the data your organization receives regarding your use of GitHub Copilot, please review",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681940,
+        "hint": "p.mb-2.color-fg-muted",
+        "lastSeenAt": 1766332681940,
+        "text": "Allow GitHub, its affiliates and third parties to use my data, including Prompts, Suggestions, and Code Snippets, for AI model training. More information in the",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681940,
+        "hint": "p.mb-2.color-fg-muted",
+        "lastSeenAt": 1766332681940,
+        "text": "Allow GitHub, its affiliates and third parties to use my data, including Prompts, Suggestions, and Code Snippets, for product improvements. More information in the",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681937,
+        "hint": "a.Link--inTextBlock.Link",
+        "lastSeenAt": 1766332681937,
+        "text": "Learn more about how GitHub Copilot serves OpenAI GPT-5-Codex and confirm compatibility with your IDE in our documentation.",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681935,
+        "hint": "p.mb-2.mr-6.color-fg-muted",
+        "lastSeenAt": 1766332681935,
+        "text": "Copilot can answer questions about new trends and give improved answers, via Bing. See",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681935,
+        "hint": "p.mb-2.mr-6.color-fg-muted",
+        "lastSeenAt": 1766332681935,
+        "text": "to explain a piece of code, propose bug fixes, or generate unit tests in a chat interface from your editor.",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681934,
+        "hint": "p.mb-2.mr-6.color-fg-muted",
+        "lastSeenAt": 1766332681934,
+        "text": "You can use Copilot Chat in GitHub.com. Preview features are only available for paid licenses.",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332681934,
+        "hint": "p.color-fg-muted",
+        "lastSeenAt": 1766332681934,
+        "text": "Please note that there may be a delay in the displayed usage percentage. The premium request entitlement for your plan will reset at the start of next month. To enable additional premium requests,",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766332681934,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766332682096,
+        "text": "Copilot CLI",
+        "type": "textNode",
+        "url": "https://github.com/settings/copilot/features"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332677557,
+        "hint": "b",
+        "lastSeenAt": 1766332677557,
+        "text": "No recoverable packages were found for Rakua-Laqua.",
+        "type": "textNode",
+        "url": "https://github.com/settings/packages"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332677556,
+        "hint": "p.mb-4",
+        "lastSeenAt": 1766332677556,
+        "text": "These are packages that have been previously deleted belonging to you. You can restore a package deleted within the last 30 days.",
+        "type": "textNode",
+        "url": "https://github.com/settings/packages"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659708,
+        "hint": "option",
+        "lastSeenAt": 1766332659708,
+        "text": "Southeast Asia",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659708,
+        "hint": "option",
+        "lastSeenAt": 1766332659708,
+        "text": "Europe West",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659708,
+        "hint": "option",
+        "lastSeenAt": 1766332659708,
+        "text": "US West",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659708,
+        "hint": "option",
+        "lastSeenAt": 1766332659708,
+        "text": "US East",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659708,
+        "hint": "p",
+        "lastSeenAt": 1766332659708,
+        "text": "days.",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659708,
+        "hint": "span",
+        "lastSeenAt": 1766332659708,
+        "text": "minutes",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659708,
+        "hint": "p.note",
+        "lastSeenAt": 1766332659708,
+        "text": "extension.",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332659707,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766332659707,
+        "text": "Submit",
+        "type": "textNode",
+        "url": "https://github.com/settings/codespaces"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657329,
+        "text": "81 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657329,
+        "text": "Rakua-Laqua/YT-Downloader_GUI",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a",
+        "lastSeenAt": 1766332657329,
+        "text": "samenoko-112/yt-dlpGUI",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657329,
+        "text": "86.1 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657329,
+        "text": "Rakua-Laqua/yt-dlpGUI",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657329,
+        "text": "21 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657329,
+        "text": "Rakua-Laqua/YouTube-playback-position-auto-save",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657329,
+        "text": "191 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657329,
+        "text": "Rakua-Laqua/So_I-m_spider_labyrinth-",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657329,
+        "text": "309 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657329,
+        "text": "Rakua-Laqua/Rimworld-",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657329,
+        "text": "180 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657329,
+        "text": "Rakua-Laqua/qwedasc",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657329,
+        "text": "13.6 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657329,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657329,
+        "text": "Rakua-Laqua/progress_research",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "1.07 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/obsidian_zixtuken",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "12.1 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/Obsidian_Git_plugin",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a",
+        "lastSeenAt": 1766332657328,
+        "text": "Vinzent03/obsidian-git",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "4.13 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/obsidian-git",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "202 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/Obsidian",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "506 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/Music_cutapp",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "210 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/Minecraft_mod_management",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "93 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/Minecraft-Mod-Folder-Organizer-GUI-Tool",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "161 MB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/I-V-",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "145 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/Github_translate_Japanease",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "189 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/convert_fileapp",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 18,
+        "firstSeenAt": 1766332657328,
+        "hint": "a",
+        "lastSeenAt": 1766332657329,
+        "text": "0 collaborators",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "span.text-small",
+        "lastSeenAt": 1766332657328,
+        "text": "255 KB",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "a.mr-1",
+        "lastSeenAt": 1766332657328,
+        "text": "Rakua-Laqua/Android-novel-downlodar",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332657328,
+        "hint": "button.btn.mr-2",
+        "lastSeenAt": 1766332657328,
+        "text": "Update",
+        "type": "textNode",
+        "url": "https://github.com/settings/repositories"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652640,
+        "hint": "a.btn.btn-sm.mt-1",
+        "lastSeenAt": 1766332652640,
+        "text": "View details of session from Fukuoka last accessed December 20, 2025",
+        "type": "aria-label",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652640,
+        "hint": "svg",
+        "lastSeenAt": 1766332652640,
+        "text": "Chrome on Android",
+        "type": "aria-label",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332652640,
+        "hint": "a.btn.btn-sm.mt-1",
+        "lastSeenAt": 1766332652640,
+        "text": "View details of session from Wajiro last accessed December 21, 2025",
+        "type": "aria-label",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332652640,
+        "hint": "svg",
+        "lastSeenAt": 1766332652640,
+        "text": "Chrome on Windows",
+        "type": "aria-label",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652639,
+        "hint": "a.text-underline",
+        "lastSeenAt": 1766332652639,
+        "text": "Android",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652639,
+        "hint": "p.mt-2",
+        "lastSeenAt": 1766332652639,
+        "text": "or",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652639,
+        "hint": "a.text-underline",
+        "lastSeenAt": 1766332652639,
+        "text": "iOS",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652639,
+        "hint": "time",
+        "lastSeenAt": 1766332652639,
+        "text": "Dec 20, 2025",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652639,
+        "hint": "small",
+        "lastSeenAt": 1766332652639,
+        "text": "stale",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652639,
+        "hint": "strong.d-block",
+        "lastSeenAt": 1766332652639,
+        "text": "Fukuoka",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332652639,
+        "hint": "time",
+        "lastSeenAt": 1766332652639,
+        "text": "Dec 21, 2025",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766332652639,
+        "hint": "a.btn.btn-sm.mt-1",
+        "lastSeenAt": 1766332652639,
+        "text": "Details",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332652638,
+        "hint": "small",
+        "lastSeenAt": 1766332652639,
+        "text": "active",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332652638,
+        "hint": "strong.d-block",
+        "lastSeenAt": 1766332652639,
+        "text": "Wajiro",
+        "type": "textNode",
+        "url": "https://github.com/settings/sessions"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332648741,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766332648885,
+        "text": "View",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648741,
+        "hint": "span.Label.Label--success.mr-1",
+        "lastSeenAt": 1766332648741,
+        "text": "Viewed",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766332648738,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766332648885,
+        "text": "Add",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648738,
+        "hint": "p.Banner-title",
+        "lastSeenAt": 1766332648738,
+        "text": "to enable two-factor authentication as an additional security measure. Your activity on GitHub includes you in this requirement. You will need to re-enable two-factor authentication on your account before July 11, 2025, otherwise your account will be restricted on that date.",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648738,
+        "hint": "h4.h5.my-0",
+        "lastSeenAt": 1766332648738,
+        "text": "Apple",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648738,
+        "hint": "h3.h5.my-0",
+        "lastSeenAt": 1766332648738,
+        "text": "Google",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648737,
+        "hint": "div.text-small.color-fg-muted.mt-1",
+        "lastSeenAt": 1766332648737,
+        "text": "Added on Dec 19, 2023 | Last used 10 months ago",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648737,
+        "hint": "div.text-bold.mr-2.js-passkey-nickname",
+        "lastSeenAt": 1766332648737,
+        "text": "Chrome on Windows",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332648737,
+        "hint": "p.note",
+        "lastSeenAt": 1766332648884,
+        "text": "OR",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332648737,
+        "hint": "div.note.mt-1",
+        "lastSeenAt": 1766332648738,
+        "text": "Configured",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648737,
+        "hint": "h3.h5.my-0",
+        "lastSeenAt": 1766332648737,
+        "text": "Password",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332648737,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766332648738,
+        "text": "Manage",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332648736,
+        "hint": "h3.h5.my-0",
+        "lastSeenAt": 1766332648736,
+        "text": "Email",
+        "type": "textNode",
+        "url": "https://github.com/settings/security"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332641000,
+        "hint": "p.UsageInfoTile-module__subtitle--UwtXh",
+        "lastSeenAt": 1766332641000,
+        "text": "Cost calculated based on 0 Spark premium requests that exceed the premium request usage included with your Copilot licenses.",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332639969,
+        "hint": "span.IncludedUsageTile-module__barTitle--iWLxh",
+        "lastSeenAt": 1766332639969,
+        "text": "Packages storage",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332639969,
+        "hint": "span.IncludedUsageTile-module__barTitle--iWLxh",
+        "lastSeenAt": 1766332639969,
+        "text": "Packages data transfer",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332639698,
+        "hint": "p.DefaultUsageCard-module__description--WSYKI",
+        "lastSeenAt": 1766332639698,
+        "text": "Billable spend for Packages for the selected timeframe. Applicable discounts cover Packages usage in public repositories and included usage for Packages data transfer and storage.",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332638629,
+        "hint": "p.UsageInfoTile-module__subtitle--UwtXh",
+        "lastSeenAt": 1766332638629,
+        "text": "Cost calculated based on additional 0 token units",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332638629,
+        "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766332638629,
+        "text": "About GitHub Models rate limits",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332638158,
+        "hint": "span.IncludedUsageTile-module__barTitle--iWLxh",
+        "lastSeenAt": 1766332638158,
+        "text": "Git LFS storage",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766332638158,
+        "hint": "span.IncludedUsageTile-module__ratio--jCPtG",
+        "lastSeenAt": 1766332639969,
+        "text": "0 GB used / 10 GB included",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332638158,
+        "hint": "span.IncludedUsageTile-module__barTitle--iWLxh",
+        "lastSeenAt": 1766332638158,
+        "text": "Git LFS bandwidth",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332637798,
+        "hint": "p.DefaultUsageCard-module__description--WSYKI",
+        "lastSeenAt": 1766332637798,
+        "text": "Billable spend for Git LFS for the selected timeframe. Applicable discounts cover included usage for Git LFS bandwidth and storage.",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332635519,
+        "hint": "p.UsageInfoTile-module__subtitle--UwtXh",
+        "lastSeenAt": 1766332635519,
+        "text": "Cost calculated based on additional 0 premium requests",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332635519,
+        "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766332635519,
+        "text": "About Copilot premium requests",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332635519,
+        "hint": "p.UsageInfoTile-module__subtitle--UwtXh",
+        "lastSeenAt": 1766332635519,
+        "text": "Total spend on Copilot for the selected timeframe, excluding applicable discounts.",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766332635519,
+        "hint": "p.UsageInfoTile-module__usageHeading--rmfFu",
+        "lastSeenAt": 1766332635519,
+        "text": "Copilot usage",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766332634802,
+        "hint": "p.DefaultUsageCard-module__description--WSYKI",
+        "lastSeenAt": 1766332636568,
+        "text": "Billable spend for Codespaces for the selected timeframe.",
+        "type": "textNode",
+        "url": "https://github.com/settings/billing"
+    },
+    {
         "count": 1,
         "firstSeenAt": 1766332248550,
         "hint": "strong",
@@ -1359,10 +2439,10 @@
         "url": "https://github.com/settings/billing/payment_information"
     },
     {
-        "count": 1,
+        "count": 2,
         "firstSeenAt": 1766332245747,
         "hint": "span",
-        "lastSeenAt": 1766332245747,
+        "lastSeenAt": 1766332681934,
         "text": "GitHub Copilot",
         "type": "textNode",
         "url": "https://github.com/settings/billing/licensing"
@@ -1683,10 +2763,10 @@
         "url": "https://github.com/settings/billing/usage"
     },
     {
-        "count": 3,
+        "count": 5,
         "firstSeenAt": 1766332223226,
         "hint": "p.PlanCard-module__cardHeading--vZWnT",
-        "lastSeenAt": 1766332245747,
+        "lastSeenAt": 1766332627643,
         "text": "GitHub Pro",
         "type": "textNode",
         "url": "https://github.com/settings/billing"
@@ -1863,10 +2943,10 @@
         "url": "https://github.com/settings/profile"
     },
     {
-        "count": 24,
+        "count": 44,
         "firstSeenAt": 1766332215384,
         "hint": "link",
-        "lastSeenAt": 1766332255481,
+        "lastSeenAt": 1766332696205,
         "text": "GitHub",
         "type": "title",
         "url": "https://github.com/settings/profile"
@@ -3519,28 +4599,28 @@
         "url": "https://github.com/settings/profile"
     },
     {
-        "count": 3,
+        "count": 9,
         "firstSeenAt": 1766332213273,
         "hint": "input.form-control",
-        "lastSeenAt": 1766332251156,
+        "lastSeenAt": 1766332691237,
         "text": "github-ruby",
         "type": "placeholder",
         "url": "https://github.com/settings/education/benefits"
     },
     {
-        "count": 3,
+        "count": 9,
         "firstSeenAt": 1766332213267,
         "hint": "span.color-fg-muted",
-        "lastSeenAt": 1766332251153,
+        "lastSeenAt": 1766332691234,
         "text": "(Rakua-Laqua)",
         "type": "textNode",
         "url": "https://github.com/settings/education/benefits"
     },
     {
-        "count": 8,
+        "count": 15,
         "firstSeenAt": 1766332213266,
         "hint": "a.color-fg-default",
-        "lastSeenAt": 1766332251153,
+        "lastSeenAt": 1766332691234,
         "text": "Rakua-Laqua",
         "type": "textNode",
         "url": "https://github.com/settings/education/benefits"
