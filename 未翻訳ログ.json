@@ -1,5 +1,3074 @@
 [
     {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "input.SelectMenu-input.form-control",
+        "lastSeenAt": 1766504701609,
+        "text": "Filter projects",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "ul.list-style-none.m-0",
+        "lastSeenAt": 1766504701609,
+        "text": "Filtered projects",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "svg",
+        "lastSeenAt": 1766504701609,
+        "text": "Loading projects",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "nav.SelectMenu-tabs",
+        "lastSeenAt": 1766504701609,
+        "text": "Project type",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "input.SelectMenu-input.form-control",
+        "lastSeenAt": 1766504701609,
+        "text": "Filter projects",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "div.SelectMenu-blankslate.color-fg-danger.p-2",
+        "lastSeenAt": 1766504701609,
+        "text": "Something went wrong. Please try refreshing the page.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "div.SelectMenu-blankslate.color-fg-muted.p-2",
+        "lastSeenAt": 1766504701609,
+        "text": "No projects",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766504698917,
+        "hint": "button.SelectMenu-tab",
+        "lastSeenAt": 1766504701609,
+        "text": "Recent",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 11,
+        "firstSeenAt": 1766497684535,
+        "hint": "relative-time.no-wrap",
+        "lastSeenAt": 1766504701612,
+        "text": "Dec 23, 2025, 10:48 PM GMT+9",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766497683460,
+        "hint": "font",
+        "lastSeenAt": 1766497683461,
+        "text": "/fix-bug-with-reading-position-saving-uq71wz",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766497673661,
+        "hint": "relative-time",
+        "lastSeenAt": 1766504701611,
+        "text": "Dec 23, 2025, 10:47 PM GMT+9",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766497673661,
+        "hint": "relative-time",
+        "lastSeenAt": 1766504701611,
+        "text": "December 23, 2025 22:47",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766497673661,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766504701611,
+        "text": "Compare",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766497673661,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766504701611,
+        "text": "to",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766497673661,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766504701611,
+        "text": "branch from",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766497673661,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766504701611,
+        "text": "the",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766497673661,
+        "hint": "a.Link--inTextBlock.Link--secondary.Link",
+        "lastSeenAt": 1766504701611,
+        "text": "force-pushed",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "p.note",
+        "lastSeenAt": 1766504698772,
+        "text": "Receive a notification when this pull request has been reopened.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "div.form-checkbox.m-0",
+        "lastSeenAt": 1766504698772,
+        "text": "Reopened",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "p.note",
+        "lastSeenAt": 1766504698772,
+        "text": "Receive a notification when this pull request has been closed.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "p.note",
+        "lastSeenAt": 1766504698772,
+        "text": "Receive a notification when this pull request has been merged.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "p.note",
+        "lastSeenAt": 1766504698772,
+        "text": "If you participate or are @mentioned you will be subscribed.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "p.note",
+        "lastSeenAt": 1766504698772,
+        "text": "You will only be notified for the events selected from the list below.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "p.note",
+        "lastSeenAt": 1766504698772,
+        "text": "Receive all notifications from this pull request.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "div.form-checkbox.my-0",
+        "lastSeenAt": 1766504698772,
+        "text": "Subscribed",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "p.note",
+        "lastSeenAt": 1766504698772,
+        "text": "Only receive notifications from this pull request when you have participated or have been @mentioned.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766493485014,
+        "hint": "div.form-checkbox.my-0",
+        "lastSeenAt": 1766504698772,
+        "text": "Not subscribed",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403635,
+        "text": "Copy push command",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403635,
+        "text": "Copy merge command",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403635,
+        "text": "Copy checkout command",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403635,
+        "text": "Copy clone command",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403635,
+        "text": "Copy clone URL",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "input.prc-components-Input-IwWrt",
+        "lastSeenAt": 1766492403635,
+        "text": "Clone URL",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "ul.prc-SegmentedControl-SegmentedControl-lqIXp",
+        "lastSeenAt": 1766492403635,
+        "text": "Select merge option",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403635,
+        "text": "Copy push command",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span.CommandLineInstructionsDialog-module__instruction--sqMbo.d-block",
+        "lastSeenAt": 1766492403635,
+        "text": "git push -u origin codex/fix-bug-with-reading-position-saving-uq71wz",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "p",
+        "lastSeenAt": 1766492403635,
+        "text": "Push the changes.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "span",
+        "lastSeenAt": 1766492403635,
+        "text": "for step-by-step instructions on resolving merge conflicts.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403635,
+        "hint": "a",
+        "lastSeenAt": 1766492403635,
+        "text": "Resolving a merge conflict using the command line",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "span",
+        "lastSeenAt": 1766492403634,
+        "text": "See",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "p",
+        "lastSeenAt": 1766492403634,
+        "text": "Fix the conflicts and commit the result.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403634,
+        "text": "Copy merge command",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.CommandLineInstructionsDialog-module__instruction--sqMbo.d-block",
+        "lastSeenAt": 1766492403634,
+        "text": "git merge main",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "p",
+        "lastSeenAt": 1766492403634,
+        "text": "Merge the base branch into the head branch.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403634,
+        "text": "Copy checkout command",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.CommandLineInstructionsDialog-module__instruction--sqMbo.d-block",
+        "lastSeenAt": 1766492403634,
+        "text": "git checkout codex/fix-bug-with-reading-position-saving-uq71wz",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "p",
+        "lastSeenAt": 1766492403634,
+        "text": "Switch to the head branch of the pull request.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403634,
+        "text": "Copy clone command",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.CommandLineInstructionsDialog-module__instruction--sqMbo.d-block",
+        "lastSeenAt": 1766492404145,
+        "text": "git pull origin main",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "p",
+        "lastSeenAt": 1766492403634,
+        "text": "Clone the repository or update your local repository with the latest changes.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.text-bold",
+        "lastSeenAt": 1766492403635,
+        "text": "Step",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "span.Box-sc-62in7e-0.CopyToClipboardButton-module__tooltip--HDUYz.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766492403634,
+        "text": "Copy clone URL",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "div.prc-SegmentedControl-Text-7S2y2.segmentedControl-text",
+        "lastSeenAt": 1766492403634,
+        "text": "Patch",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766492403634,
+        "hint": "div.prc-SegmentedControl-Text-7S2y2.segmentedControl-text",
+        "lastSeenAt": 1766492404145,
+        "text": "SSH",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766492403634,
+        "hint": "div.prc-SegmentedControl-Text-7S2y2.segmentedControl-text",
+        "lastSeenAt": 1766492404145,
+        "text": "HTTPS",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "h2.prc-Dialog-Subtitle-aBFSq",
+        "lastSeenAt": 1766492403634,
+        "text": "If you do not want to use the merge button or an automatic merge cannot be performed, you can perform a manual merge on the command line. However, the following steps are not applicable if the base branch is protected.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766492403634,
+        "hint": "h1.prc-Dialog-Title-M-iPn",
+        "lastSeenAt": 1766492403634,
+        "text": "Checkout via the command line",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "span.select-menu-item-text.f6",
+        "lastSeenAt": 1766491927191,
+        "text": "Edit labels",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "input.form-control.js-characters-remaining-field.js-new-label-description-input",
+        "lastSeenAt": 1766491927191,
+        "text": "Optional description",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "input.js-new-label-name-input.form-control.js-characters-remaining-field",
+        "lastSeenAt": 1766491927191,
+        "text": "New label name…",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-d4c5f9",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #d4c5f9",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-bfd4f2",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #bfd4f2",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-c5def5",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #c5def5",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-bfdadc",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #bfdadc",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-c2e0c6",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #c2e0c6",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-fef2c0",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #fef2c0",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-f9d0c4",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #f9d0c4",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-e99695",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #e99695",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-5319e7",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #5319e7",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-0052cc",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #0052cc",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-1d76db",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #1d76db",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-006b75",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #006b75",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-0e8a16",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #0e8a16",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-fbca04",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #fbca04",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-d93f0b",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #d93f0b",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.js-new-label-color-swatch.new-label-color-dimensions.labelstyle-b60205",
+        "lastSeenAt": 1766491927191,
+        "text": "Color #b60205",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "button.IssueLabel.hx_IssueLabel.btn-link",
+        "lastSeenAt": 1766491927191,
+        "text": "Get a new color",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "details-dialog.Box.Box--overlay.d-flex",
+        "lastSeenAt": 1766491927191,
+        "text": "Create new label",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "p.f6.color-fg-muted.mt-2",
+        "lastSeenAt": 1766491927191,
+        "text": "Choose from default colors:",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "p.note",
+        "lastSeenAt": 1766491927191,
+        "text": "Hex colors should only contain numbers and letters from a-f.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766491927191,
+        "text": "Get a new color",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "label",
+        "lastSeenAt": 1766491927191,
+        "text": "Color",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "span.mt-1.text-small.label-characters-remaining",
+        "lastSeenAt": 1766491927191,
+        "text": "100 remaining",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "span.mt-1.text-small.label-characters-remaining",
+        "lastSeenAt": 1766491927191,
+        "text": "50 remaining",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "label",
+        "lastSeenAt": 1766491927191,
+        "text": "Label name",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "h3.Box-title",
+        "lastSeenAt": 1766491927191,
+        "text": "Create new label",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "summary.d-block.color-fg-muted.select-menu-item",
+        "lastSeenAt": 1766491927191,
+        "text": "Create new label “",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491927191,
+        "hint": "form.js-issue-sidebar-form",
+        "lastSeenAt": 1766491927191,
+        "text": "Apply labels",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927191,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "This will not be worked on",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927191,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "wontfix",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927191,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "Further information is requested",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927191,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "question",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927191,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "This doesn't seem right",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927191,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "invalid",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "Extra attention is needed",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "help wanted",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "Good for newcomers",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "good first issue",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "New feature or request",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "enhancement",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "This issue or pull request already exists",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "duplicate",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "Improvements or additions to documentation",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "div.description.d-block.css-truncate-target",
+        "lastSeenAt": 1766491927192,
+        "text": "Something isn't working",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491927190,
+        "hint": "span.name.js-label-name-html",
+        "lastSeenAt": 1766491927192,
+        "text": "bug",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916587,
+        "hint": "button.tooltipped-nw.js-mark-resolved.btn-sm",
+        "lastSeenAt": 1766491916587,
+        "text": "Remove all conflict markers to resolve this file",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916586,
+        "hint": "span.js-conflict-label",
+        "lastSeenAt": 1766491916586,
+        "text": "conflict",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491916586,
+        "hint": "button.btn-link.text-bold",
+        "lastSeenAt": 1766491916772,
+        "text": "Accept both changes",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491916586,
+        "hint": "button.btn-link.text-bold",
+        "lastSeenAt": 1766491916772,
+        "text": "Accept incoming change",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491916586,
+        "hint": "button.btn-link.text-bold",
+        "lastSeenAt": 1766491916772,
+        "text": "Accept current change",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491916169,
+        "hint": "div.CodeMirror-code",
+        "lastSeenAt": 1766491916169,
+        "text": "Use Control+Shift+m to toggle the tab key moving focus.",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "button.Link--primary.no-underline.js-next-conflict",
+        "lastSeenAt": 1766491916169,
+        "text": "Next conflict",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "button.Link--primary.no-underline.js-prev-conflict",
+        "lastSeenAt": 1766491916169,
+        "text": "Previous conflict",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "summary.btn-link.mt-1",
+        "lastSeenAt": 1766491916169,
+        "text": "Editor setting",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "div.d-none.focus-trap-banner",
+        "lastSeenAt": 1766491916169,
+        "text": "key moving focus.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "kbd",
+        "lastSeenAt": 1766491916169,
+        "text": "tab",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "div.d-none.focus-trap-banner",
+        "lastSeenAt": 1766491916169,
+        "text": "to toggle the",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "kbd",
+        "lastSeenAt": 1766491916169,
+        "text": "Control+Shift+m",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "div.d-none.focus-trap-banner",
+        "lastSeenAt": 1766491916169,
+        "text": "Use",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "button.Link--primary.no-underline.js-next-conflict",
+        "lastSeenAt": 1766491916169,
+        "text": "Next",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "button.Link--primary.no-underline.js-prev-conflict",
+        "lastSeenAt": 1766491916169,
+        "text": "Prev",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "td.conflict-resolution-hint-hint",
+        "lastSeenAt": 1766491916169,
+        "text": "then",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "kbd.hx_kbd",
+        "lastSeenAt": 1766491916169,
+        "text": "Esc",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "td",
+        "lastSeenAt": 1766491916169,
+        "text": "Exit editor",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "td",
+        "lastSeenAt": 1766491916169,
+        "text": "Move to next conflict control after accepting suggestion",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491916169,
+        "hint": "kbd.hx_kbd",
+        "lastSeenAt": 1766491916169,
+        "text": "Tab",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "td",
+        "lastSeenAt": 1766491916169,
+        "text": "Navigation between elements with tab focus mode on",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491916169,
+        "hint": "kbd.hx_kbd",
+        "lastSeenAt": 1766491916169,
+        "text": "Shift",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916169,
+        "hint": "td",
+        "lastSeenAt": 1766491916169,
+        "text": "Toggle between edit mode and tab focus mode",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "th",
+        "lastSeenAt": 1766491916168,
+        "text": "Keyboard Shortcut",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "th",
+        "lastSeenAt": 1766491916168,
+        "text": "Action",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "h1.Overlay-title",
+        "lastSeenAt": 1766491916168,
+        "text": "How to interact with code conflict editor via keyboard",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766491916168,
+        "text": "Keyboard hints",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "option",
+        "lastSeenAt": 1766491916168,
+        "text": "Soft wrap",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "option",
+        "lastSeenAt": 1766491916168,
+        "text": "No wrap",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "label.text-normal.d-table-cell.v-align-middle",
+        "lastSeenAt": 1766491916168,
+        "text": "Line wrap mode",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "label.text-normal.d-table-cell.v-align-middle",
+        "lastSeenAt": 1766491916168,
+        "text": "Indent size",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "option",
+        "lastSeenAt": 1766491916168,
+        "text": "Tabs",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "option",
+        "lastSeenAt": 1766491916168,
+        "text": "Spaces",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "label.text-normal.d-table-cell.v-align-middle",
+        "lastSeenAt": 1766491916168,
+        "text": "Indent mode",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491916168,
+        "hint": "button.tooltipped-nw.js-mark-resolved.btn-sm",
+        "lastSeenAt": 1766491916587,
+        "text": "Mark as resolved",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491916168,
+        "hint": "div.color-fg-muted.f6",
+        "lastSeenAt": 1766491916768,
+        "text": "...entation/viewmodel/ReaderViewModel.kt",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "div.color-fg-default.css-truncate.css-truncate-target",
+        "lastSeenAt": 1766491916168,
+        "text": "ReaderViewModel.kt",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491916168,
+        "hint": "div.color-fg-muted.f6",
+        "lastSeenAt": 1766491916768,
+        "text": "...tion/ui/screen/reader/ReaderScreen.kt",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "div.color-fg-default.css-truncate.css-truncate-target",
+        "lastSeenAt": 1766491916168,
+        "text": "ReaderScreen.kt",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "h3.py-3.px-4.color-fg-muted",
+        "lastSeenAt": 1766491916168,
+        "text": "2 conflicting files",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "button.btn.btn-sm.btn-primary",
+        "lastSeenAt": 1766491916168,
+        "text": "Commit merge",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "a.stale-files-tab-link.Link--inTextBlock",
+        "lastSeenAt": 1766491916168,
+        "text": "View rules",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "div.stale-files-tab.d-none.js-resolve-conflicts-repository-rule-violations",
+        "lastSeenAt": 1766491916168,
+        "text": "Repository rule violations found.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491916168,
+        "hint": "a.stale-files-tab-link.Link--inTextBlock",
+        "lastSeenAt": 1766491916168,
+        "text": "Start over",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "div.stale-files-tab.d-none.js-resolve-conflicts-failed",
+        "lastSeenAt": 1766491916168,
+        "text": "This page is out of date.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "span.color-fg-muted",
+        "lastSeenAt": 1766491916168,
+        "text": "and committing changes",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "span.color-fg-muted",
+        "lastSeenAt": 1766491916168,
+        "text": "between",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "span.text-bold",
+        "lastSeenAt": 1766491916168,
+        "text": "Resolving conflicts",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491916168,
+        "hint": "h1.d-inline.text-normal",
+        "lastSeenAt": 1766491916168,
+        "text": "Prevent restore from overwriting saved position...",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491916165,
+        "hint": "title",
+        "lastSeenAt": 1766504701607,
+        "text": "Resolve Conflicts · Pull Request #3 · Rakua-Laqua/Android-novel-downlodar",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3/conflicts"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491907247,
+        "hint": "svg",
+        "lastSeenAt": 1766504701611,
+        "text": "Merge conflicts",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491907247,
+        "hint": "span.prc-Button-Label-FWkx3",
+        "lastSeenAt": 1766491922276,
+        "text": "Resolve conflicts",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 12,
+        "firstSeenAt": 1766491907247,
+        "hint": "span.input-monospace.f6.ConflictsSection-module__selectable--BT2Oj",
+        "lastSeenAt": 1766491922470,
+        "text": "app/src/main/java/com/novelreader/app/presentation/viewmodel/ReaderViewModel.kt",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 17,
+        "firstSeenAt": 1766491907247,
+        "hint": "span.input-monospace.f6.ConflictsSection-module__selectable--BT2Oj",
+        "lastSeenAt": 1766491922470,
+        "text": "app/src/main/java/com/novelreader/app/presentation/ui/screen/reader/ReaderScreen.kt",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491907247,
+        "hint": "span",
+        "lastSeenAt": 1766491922276,
+        "text": "or the command line to resolve conflicts before continuing.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491907247,
+        "hint": "a.prc-Link-Link-9ZwDx",
+        "lastSeenAt": 1766491922276,
+        "text": "web editor",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491907247,
+        "hint": "span",
+        "lastSeenAt": 1766491922276,
+        "text": "Use the",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491907247,
+        "hint": "h3.MergeBoxSectionHeader-module__MergeBoxSectionHeading--miHzz.prc-Heading-Heading-MtWFE",
+        "lastSeenAt": 1766491922276,
+        "text": "This branch has conflicts that must be resolved",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 16,
+        "firstSeenAt": 1766491906182,
+        "hint": "span.commit-ref.css-truncate.user-select-contain",
+        "lastSeenAt": 1766504701612,
+        "text": "Rakua-Laqua/Android-novel-downlodar:codex/fix-bug-with-reading-position-saving-uq71wz",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491906173,
+        "hint": "div.protip",
+        "lastSeenAt": 1766491906173,
+        "text": "to the end of URLs for Git’s plaintext views.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 10,
+        "firstSeenAt": 1766491906173,
+        "hint": "a.Link--inTextBlock",
+        "lastSeenAt": 1766504701607,
+        "text": ".diff",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 10,
+        "firstSeenAt": 1766491906173,
+        "hint": "a.Link--inTextBlock",
+        "lastSeenAt": 1766504701607,
+        "text": ".patch",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 14,
+        "firstSeenAt": 1766491906168,
+        "hint": "span.css-truncate-target",
+        "lastSeenAt": 1766504701612,
+        "text": "codex/fix-bug-with-reading-position-saving-uq71wz",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491906167,
+        "hint": "bdi.js-issue-title.markdown-title",
+        "lastSeenAt": 1766504701612,
+        "text": "Prevent restore from overwriting saved position and persist reading position on exit",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/3"
+    },
+    {
+        "count": 21,
+        "firstSeenAt": 1766491890866,
+        "hint": "relative-time",
+        "lastSeenAt": 1766491909614,
+        "text": "Dec 23, 2025, 9:11 PM GMT+9",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 11,
+        "firstSeenAt": 1766491890866,
+        "hint": "relative-time",
+        "lastSeenAt": 1766491905932,
+        "text": "December 23, 2025 21:11",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491890865,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766491890865,
+        "text": "branch",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491890865,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766491890865,
+        "text": "deleted the",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491834112,
+        "hint": "p.fgColor-muted.mb-0",
+        "lastSeenAt": 1766504701611,
+        "text": "branch can be safely deleted.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491834112,
+        "hint": "p.fgColor-muted.mb-0",
+        "lastSeenAt": 1766504701611,
+        "text": "You're all set — the",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491832643,
+        "hint": "div",
+        "lastSeenAt": 1766497681263,
+        "text": "Merging...",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491830061,
+        "hint": "textarea.prc-Textarea-TextArea-snlco",
+        "lastSeenAt": 1766497679166,
+        "text": "Add an optional extended description…",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491830061,
+        "hint": "span.ConfirmMerge-module__ConfirmMergeText--Lq1XQ",
+        "lastSeenAt": 1766497679166,
+        "text": "This commit will be authored by",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491830061,
+        "hint": "label.prc-components-Label-2mrqP",
+        "lastSeenAt": 1766497679166,
+        "text": "Extended description",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491830061,
+        "hint": "label.prc-components-Label-2mrqP",
+        "lastSeenAt": 1766497679166,
+        "text": "Commit message",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491823266,
+        "hint": "svg",
+        "lastSeenAt": 1766497675628,
+        "text": "Merge pull request",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491823266,
+        "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766491823266,
+        "text": "Select merge method",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491823266,
+        "hint": "p.fgColor-muted.mb-0",
+        "lastSeenAt": 1766491823266,
+        "text": "Merging can be performed automatically.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491823266,
+        "hint": "h3.MergeBoxSectionHeader-module__MergeBoxSectionHeading--miHzz.prc-Heading-Heading-MtWFE",
+        "lastSeenAt": 1766491823266,
+        "text": "No conflicts with base branch",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 271,
+        "firstSeenAt": 1766491822219,
+        "hint": "relative-time.no-wrap",
+        "lastSeenAt": 1766491905932,
+        "text": "Dec 23, 2025, 9:10 PM GMT+9",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491822219,
+        "hint": "span.commit-ref.css-truncate.user-select-contain",
+        "lastSeenAt": 1766491835980,
+        "text": "Rakua-Laqua/Android-novel-downlodar:codex/fix-bug-with-reading-position-saving-6cftwn",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491822209,
+        "hint": "span.css-truncate-target",
+        "lastSeenAt": 1766491890865,
+        "text": "codex/fix-bug-with-reading-position-saving-6cftwn",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491822208,
+        "hint": "bdi.js-issue-title.markdown-title",
+        "lastSeenAt": 1766491835980,
+        "text": "Delay saving reading progress until pager restore completes",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/2"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491404903,
+        "hint": "button.tooltipped.tooltipped-s.btn-sm",
+        "lastSeenAt": 1766504701612,
+        "text": "Create a new pull request to revert these changes",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491404903,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766504701612,
+        "text": "into",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491404903,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766504701612,
+        "text": "merged commit",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491404903,
+        "hint": "button.tooltipped.tooltipped-s.btn-sm",
+        "lastSeenAt": 1766504701612,
+        "text": "Revert",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491404902,
+        "hint": "span.State.State--merged",
+        "lastSeenAt": 1766504701612,
+        "text": "Status: Merged",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491404901,
+        "hint": "div.flex-auto.min-width-0.mb-2",
+        "lastSeenAt": 1766504701612,
+        "text": "merged 1 commit into",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491403868,
+        "hint": "p.reason.text-small.color-fg-muted",
+        "lastSeenAt": 1766504701611,
+        "text": "You’re receiving notifications because you modified the open/close state.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 9,
+        "firstSeenAt": 1766491399870,
+        "hint": "div.flash.flash-warn.flash-full",
+        "lastSeenAt": 1766504701611,
+        "text": "People who are already subscribed will not be unsubscribed.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 9,
+        "firstSeenAt": 1766491399870,
+        "hint": "h3.Box-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Convert this pull request to draft?",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 15,
+        "firstSeenAt": 1766491399870,
+        "hint": "summary.btn-link.Link--muted.Link--inTextBlock",
+        "lastSeenAt": 1766504701611,
+        "text": "Convert to draft",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491399870,
+        "hint": "span.mr-1",
+        "lastSeenAt": 1766491922276,
+        "text": "Still in progress?",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 55,
+        "firstSeenAt": 1766491399869,
+        "hint": "relative-time",
+        "lastSeenAt": 1766491750869,
+        "text": "Dec 23, 2025, 9:03 PM GMT+9",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 16,
+        "firstSeenAt": 1766491399869,
+        "hint": "relative-time",
+        "lastSeenAt": 1766491750869,
+        "text": "December 23, 2025 21:03",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491399869,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766491399869,
+        "text": "marked this pull request as ready for review",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491399869,
+        "hint": "span.State.State--open",
+        "lastSeenAt": 1766491906182,
+        "text": "Status: Open",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491237047,
+        "hint": "input.form-control.js-filterable-field",
+        "lastSeenAt": 1766504701610,
+        "text": "Filter milestones",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491237047,
+        "hint": "input.form-control.js-filterable-field",
+        "lastSeenAt": 1766504701610,
+        "text": "Filter milestones",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491237047,
+        "hint": "span.select-menu-item-heading",
+        "lastSeenAt": 1766504701609,
+        "text": "Create and assign to new milestone:",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491236360,
+        "hint": "button.prc-Button-ButtonBase-9n-Xk.flex-0.prc-Button-IconButton-fyge7",
+        "lastSeenAt": 1766491922276,
+        "text": "Select merge method",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491236359,
+        "hint": "section.border-bottom.color-border-subtle",
+        "lastSeenAt": 1766491236359,
+        "text": "Draft state",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491236359,
+        "hint": "section.border-bottom.borderColor-muted",
+        "lastSeenAt": 1766491922276,
+        "text": "Conflicts",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491236359,
+        "hint": "button.prc-Link-Link-9ZwDx",
+        "lastSeenAt": 1766491922276,
+        "text": "View command line instructions.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491236359,
+        "hint": "span.f6.fgColor-muted",
+        "lastSeenAt": 1766491922276,
+        "text": "You can also merge this with the command line.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491236359,
+        "hint": "span.prc-TooltipV2-Tooltip-tLeuB",
+        "lastSeenAt": 1766491922276,
+        "text": "Merging is blocked due to failing merge requirements",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491236359,
+        "hint": "span.prc-Button-Label-FWkx3",
+        "lastSeenAt": 1766491922276,
+        "text": "Merge pull request",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491236359,
+        "hint": "span.prc-Button-Label-FWkx3",
+        "lastSeenAt": 1766491236359,
+        "text": "Ready for review",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491236359,
+        "hint": "p.fgColor-muted.mb-0",
+        "lastSeenAt": 1766491236359,
+        "text": "Draft pull requests cannot be merged.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491236359,
+        "hint": "h3.MergeBoxSectionHeader-module__MergeBoxSectionHeading--miHzz.prc-Heading-Heading-MtWFE",
+        "lastSeenAt": 1766491236359,
+        "text": "This pull request is still a work in progress",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491236359,
+        "hint": "p.fgColor-muted.mb-0",
+        "lastSeenAt": 1766497674048,
+        "text": "Hang in there while we check the branch's status.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 1,
+        "firstSeenAt": 1766491236359,
+        "hint": "h3.MergeBoxSectionHeader-module__MergeBoxSectionHeading--miHzz.prc-Heading-Heading-MtWFE",
+        "lastSeenAt": 1766491236359,
+        "text": "Checking for the ability to merge automatically...",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491236359,
+        "hint": "h2.sr-only",
+        "lastSeenAt": 1766504701611,
+        "text": "Merge info",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 10,
+        "firstSeenAt": 1766491235598,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766504701611,
+        "text": "Request review from Copilot",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235598,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766491906309,
+        "text": "Request",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235322,
+        "hint": "input.form-control.js-label-filter-field.js-filterable-field",
+        "lastSeenAt": 1766504701611,
+        "text": "Filter labels",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 19,
+        "firstSeenAt": 1766491235322,
+        "hint": "input.form-control.js-filterable-field",
+        "lastSeenAt": 1766504701611,
+        "text": "Type or choose a user",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235322,
+        "hint": "input.SelectMenu-input.form-control",
+        "lastSeenAt": 1766491906183,
+        "text": "Find a branch",
+        "type": "placeholder",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 42,
+        "firstSeenAt": 1766491235322,
+        "hint": "relative-time.no-wrap",
+        "lastSeenAt": 1766491750869,
+        "text": "Dec 23, 2025, 8:59 PM GMT+9",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 12,
+        "firstSeenAt": 1766491235322,
+        "hint": "span.commit-ref.css-truncate.user-select-contain",
+        "lastSeenAt": 1766491404902,
+        "text": "Rakua-Laqua/Android-novel-downlodar:codex/fix-bug-with-reading-position-saving",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 35,
+        "firstSeenAt": 1766491235322,
+        "hint": "span.commit-ref.css-truncate.user-select-contain",
+        "lastSeenAt": 1766504701612,
+        "text": "Rakua-Laqua/Android-novel-downlodar:main",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491235322,
+        "hint": "span.State",
+        "lastSeenAt": 1766491235322,
+        "text": "Status: Draft",
+        "type": "title",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235321,
+        "hint": "form.js-issue-sidebar-form",
+        "lastSeenAt": 1766491906182,
+        "text": "Link issues",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235321,
+        "hint": "form.js-issue-sidebar-form",
+        "lastSeenAt": 1766491906182,
+        "text": "Select milestones",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235321,
+        "hint": "form.js-issue-sidebar-form",
+        "lastSeenAt": 1766491906181,
+        "text": "Select projects",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "input.form-control.js-label-filter-field.js-filterable-field",
+        "lastSeenAt": 1766504701611,
+        "text": "Filter labels",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235321,
+        "hint": "form.js-issue-sidebar-form",
+        "lastSeenAt": 1766491906181,
+        "text": "Select assignees",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 19,
+        "firstSeenAt": 1766491235321,
+        "hint": "input.form-control.js-filterable-field",
+        "lastSeenAt": 1766504701611,
+        "text": "Type or choose a user",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235321,
+        "hint": "form.js-issue-sidebar-form",
+        "lastSeenAt": 1766491906181,
+        "text": "Select reviewers",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.Button.Button--iconOnly.Button--invisible",
+        "lastSeenAt": 1766504701611,
+        "text": "Information",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "eyes",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "rocket",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "heart",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "confused",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "hooray",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "laugh",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "thumbs down",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.dropdown-item.dropdown-item-reaction.btn-invisible",
+        "lastSeenAt": 1766504701610,
+        "text": "thumbs up",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235321,
+        "hint": "summary.circle.reaction-dropdown-button.reaction-dropdown-button--inline",
+        "lastSeenAt": 1766491906181,
+        "text": "Add or remove reactions",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235321,
+        "hint": "svg",
+        "lastSeenAt": 1766491906181,
+        "text": "Show options",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235321,
+        "hint": "nav.tabnav-tabs.d-flex.overflow-auto",
+        "lastSeenAt": 1766491906181,
+        "text": "Pull request tabs",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 16,
+        "firstSeenAt": 1766491235321,
+        "hint": "clipboard-copy.Link--onHover.js-copy-branch.color-fg-muted",
+        "lastSeenAt": 1766504701612,
+        "text": "Copy",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235321,
+        "hint": "input.SelectMenu-input.form-control",
+        "lastSeenAt": 1766491906181,
+        "text": "Find a branch",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491235321,
+        "hint": "input.form-control.js-quick-submit.flex-auto",
+        "lastSeenAt": 1766504701612,
+        "text": "Pull Request title",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491235321,
+        "hint": "button.js-details-target.js-title-edit-button.flex-md-order-2",
+        "lastSeenAt": 1766504701612,
+        "text": "Edit Pull Request title",
+        "type": "aria-label",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-head-oid-not-loaded",
+        "lastSeenAt": 1766491922108,
+        "text": "Suggestion cannot be applied right now. Please check back later.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-in-merge-queue",
+        "lastSeenAt": 1766491922108,
+        "text": "Suggestions cannot be applied while the pull request is queued to merge.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-is-multiline",
+        "lastSeenAt": 1766491922108,
+        "text": "Suggestions cannot be applied on multi-line comments.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-pending-review",
+        "lastSeenAt": 1766491922108,
+        "text": "Suggestions cannot be applied from pending reviews.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-resolved-thread",
+        "lastSeenAt": 1766491922108,
+        "text": "This suggestion has been applied or marked resolved.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-outdated-comment",
+        "lastSeenAt": 1766491922108,
+        "text": "Outdated suggestions cannot be applied.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-validation-on-right-blob",
+        "lastSeenAt": 1766491922108,
+        "text": "You must change the existing code in this line in order to create a valid suggestion.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-validation-on-left-blob",
+        "lastSeenAt": 1766491922108,
+        "text": "Applying suggestions on deleted lines is not supported.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-one-suggestion-per-line",
+        "lastSeenAt": 1766491922108,
+        "text": "Only one suggestion per line can be applied in a batch.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-viewing-subset-changes",
+        "lastSeenAt": 1766491922108,
+        "text": "Suggestions cannot be applied while viewing a subset of changes.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-closed-pull",
+        "lastSeenAt": 1766491922108,
+        "text": "Suggestions cannot be applied while the pull request is closed.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-unchanged-suggestion",
+        "lastSeenAt": 1766491922108,
+        "text": "This suggestion is invalid because no changes were made to the code.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 10,
+        "firstSeenAt": 1766491235320,
+        "hint": "span.js-add-to-batch-enabled",
+        "lastSeenAt": 1766491922108,
+        "text": "Add this suggestion to a batch that can be applied as a single commit.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "a.Link--inTextBlock",
+        "lastSeenAt": 1766491922108,
+        "text": "lock conversations",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235320,
+        "hint": "p.note",
+        "lastSeenAt": 1766491922108,
+        "text": "Optionally, choose a reason for locking that others can see. Learn more about when it’s appropriate to",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235320,
+        "hint": "option",
+        "lastSeenAt": 1766504701611,
+        "text": "Spam",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 7,
+        "firstSeenAt": 1766491235320,
+        "hint": "option",
+        "lastSeenAt": 1766504701611,
+        "text": "Resolved",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235320,
+        "hint": "option",
+        "lastSeenAt": 1766504701611,
+        "text": "Too heated",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "option",
+        "lastSeenAt": 1766504701611,
+        "text": "Off-topic",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "option",
+        "lastSeenAt": 1766504701611,
+        "text": "Choose a reason",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "label",
+        "lastSeenAt": 1766504701611,
+        "text": "Reason for locking",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "li",
+        "lastSeenAt": 1766504701611,
+        "text": "You can always unlock this pull request again in the future.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "li",
+        "lastSeenAt": 1766504701611,
+        "text": "that others can see.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "strong",
+        "lastSeenAt": 1766504701611,
+        "text": "can still leave comments",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "li",
+        "lastSeenAt": 1766504701611,
+        "text": "to this repository",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "a.Link--inTextBlock",
+        "lastSeenAt": 1766504701611,
+        "text": "with access",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "li",
+        "lastSeenAt": 1766504701611,
+        "text": "You and other collaborators",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "li",
+        "lastSeenAt": 1766504701611,
+        "text": "to this pull request.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "strong",
+        "lastSeenAt": 1766504701611,
+        "text": "can’t add new comments",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235319,
+        "hint": "li",
+        "lastSeenAt": 1766504701611,
+        "text": "Other users",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 11,
+        "firstSeenAt": 1766491235319,
+        "hint": "h3.Box-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Lock conversation on this pull request",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235319,
+        "hint": "strong",
+        "lastSeenAt": 1766491906179,
+        "text": "Lock conversation",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235319,
+        "hint": "h3.discussion-sidebar-heading.text-bold",
+        "lastSeenAt": 1766491906179,
+        "text": "2 participants",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235319,
+        "hint": "p.reason.text-small.color-fg-muted",
+        "lastSeenAt": 1766491906179,
+        "text": "You’re receiving notifications because you authored the thread.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 7,
+        "firstSeenAt": 1766491235319,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766504701611,
+        "text": "Unsubscribe",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 9,
+        "firstSeenAt": 1766491235319,
+        "hint": "h1.Overlay-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Notification settings",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 7,
+        "firstSeenAt": 1766491235319,
+        "hint": "span.text-normal",
+        "lastSeenAt": 1766504701611,
+        "text": "Customize",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235319,
+        "hint": "p",
+        "lastSeenAt": 1766491906179,
+        "text": "Successfully merging this pull request may close these issues.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 9,
+        "firstSeenAt": 1766491235319,
+        "hint": "span.select-menu-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Link an issue from this repository",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235319,
+        "hint": "summary.text-bold.discussion-sidebar-heading.discussion-sidebar-toggle",
+        "lastSeenAt": 1766491906179,
+        "text": "Development",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "form.js-issue-sidebar-form",
+        "lastSeenAt": 1766491906179,
+        "text": "No milestone",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 9,
+        "firstSeenAt": 1766491235318,
+        "hint": "span.select-menu-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Set milestone",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "summary.text-bold.discussion-sidebar-heading.discussion-sidebar-toggle",
+        "lastSeenAt": 1766491906178,
+        "text": "Milestone",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235318,
+        "hint": "span.css-truncate.sidebar-progress-bar",
+        "lastSeenAt": 1766491906179,
+        "text": "None yet",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235318,
+        "hint": "span.select-menu-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Apply labels to this pull request",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "summary.text-bold.discussion-sidebar-heading.discussion-sidebar-toggle",
+        "lastSeenAt": 1766491906178,
+        "text": "Labels",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "button.btn-link.Link--muted.Link--inTextBlock",
+        "lastSeenAt": 1766491906178,
+        "text": "assign yourself",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "span.css-truncate.js-issue-assignees",
+        "lastSeenAt": 1766491906178,
+        "text": "No one—",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 9,
+        "firstSeenAt": 1766491235318,
+        "hint": "div.warning.mb-0",
+        "lastSeenAt": 1766504701611,
+        "text": "You can only select 10 assignees.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 9,
+        "firstSeenAt": 1766491235318,
+        "hint": "span.select-menu-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Assign up to 10 people to this pull request",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "summary.text-bold.discussion-sidebar-heading.discussion-sidebar-toggle",
+        "lastSeenAt": 1766491906178,
+        "text": "Assignees",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235318,
+        "hint": "include-fragment",
+        "lastSeenAt": 1766491906174,
+        "text": "Loading suggestions…",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 10,
+        "firstSeenAt": 1766491235318,
+        "hint": "div.select-menu-divider.js-divider-rest",
+        "lastSeenAt": 1766504701611,
+        "text": "Everyone else",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 10,
+        "firstSeenAt": 1766491235318,
+        "hint": "div.warning",
+        "lastSeenAt": 1766504701611,
+        "text": "You can only select 15 reviewers.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 10,
+        "firstSeenAt": 1766491235318,
+        "hint": "span.select-menu-title",
+        "lastSeenAt": 1766504701611,
+        "text": "Request up to 15 reviewers",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235318,
+        "hint": "summary.text-bold.discussion-sidebar-heading.discussion-sidebar-toggle",
+        "lastSeenAt": 1766491906173,
+        "text": "Reviewers",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 2,
+        "firstSeenAt": 1766491235318,
+        "hint": "div.protip",
+        "lastSeenAt": 1766491822213,
+        "text": "Add comments to specific lines under",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 12,
+        "firstSeenAt": 1766491235318,
+        "hint": "strong",
+        "lastSeenAt": 1766504701607,
+        "text": "ProTip!",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "a.Link--inTextBlock",
+        "lastSeenAt": 1766491906173,
+        "text": "GitHub Community Guidelines",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235318,
+        "hint": "span",
+        "lastSeenAt": 1766491906173,
+        "text": "Remember, contributions to this repository should follow our",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235317,
+        "hint": "span.js-form-action-text",
+        "lastSeenAt": 1766491906173,
+        "text": "Close pull request",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235317,
+        "hint": "span.f6.color-fg-muted",
+        "lastSeenAt": 1766504701611,
+        "text": "Agent opens a new pull request against this branch",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235317,
+        "hint": "p.CommentBox-placeholder",
+        "lastSeenAt": 1766491906172,
+        "text": "Add your comment here...",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235317,
+        "hint": "h4.my-2",
+        "lastSeenAt": 1766504701611,
+        "text": "An unexpected error has occurred",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235317,
+        "hint": "div.comment-form-error.js-comment-form-error",
+        "lastSeenAt": 1766504701611,
+        "text": "There was an error creating your PullRequest.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 24,
+        "firstSeenAt": 1766491235316,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766504701611,
+        "text": "Slash commands",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 12,
+        "firstSeenAt": 1766491235316,
+        "hint": "tool-tip.sr-only.position-absolute",
+        "lastSeenAt": 1766504701610,
+        "text": "Mention Copilot",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235315,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766491906170,
+        "text": "— with",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235315,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766491906170,
+        "text": "label",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491235315,
+        "hint": "a.IssueLabel.hx_IssueLabel.d-inline-block",
+        "lastSeenAt": 1766491927192,
+        "text": "codex",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235315,
+        "hint": "div.TimelineItem-body",
+        "lastSeenAt": 1766491906169,
+        "text": "added the",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235315,
+        "hint": "div.StackItem.color-fg-default",
+        "lastSeenAt": 1766491906169,
+        "text": "Mention @copilot in a comment to make changes to this pull request.",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235315,
+        "hint": "span.Button-label",
+        "lastSeenAt": 1766504701610,
+        "text": "All reactions",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 376,
+        "firstSeenAt": 1766491235314,
+        "hint": "relative-time.no-wrap",
+        "lastSeenAt": 1766504701612,
+        "text": "Dec 23, 2025",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235314,
+        "hint": "div.d-flex.flex-items-center.flex-wrap",
+        "lastSeenAt": 1766491906169,
+        "text": "commented",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235314,
+        "hint": "button.dropdown-item.btn-link.js-comment-quote-reply",
+        "lastSeenAt": 1766504701610,
+        "text": "Quote reply",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 5,
+        "firstSeenAt": 1766491235314,
+        "hint": "a.tabnav-tab.flex-shrink-0",
+        "lastSeenAt": 1766491906168,
+        "text": "Files changed",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235314,
+        "hint": "a.tabnav-tab.flex-shrink-0",
+        "lastSeenAt": 1766491906168,
+        "text": "Checks",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 3,
+        "firstSeenAt": 1766491235314,
+        "hint": "a.tabnav-tab.flex-shrink-0",
+        "lastSeenAt": 1766491906168,
+        "text": "Commits",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235314,
+        "hint": "a.tabnav-tab.flex-shrink-0.selected",
+        "lastSeenAt": 1766491906168,
+        "text": "Conversation",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235314,
+        "hint": "span.css-truncate-target",
+        "lastSeenAt": 1766491404902,
+        "text": "codex/fix-bug-with-reading-position-saving",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 16,
+        "firstSeenAt": 1766491235314,
+        "hint": "div.flex-auto.min-width-0.mb-2",
+        "lastSeenAt": 1766504701612,
+        "text": "from",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235314,
+        "hint": "span.SelectMenu-title",
+        "lastSeenAt": 1766491906168,
+        "text": "Choose a base branch",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 4,
+        "firstSeenAt": 1766491235314,
+        "hint": "i",
+        "lastSeenAt": 1766491906168,
+        "text": "base:",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491235314,
+        "hint": "div.flex-auto.min-width-0.mb-2",
+        "lastSeenAt": 1766491906168,
+        "text": "commit into",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491235313,
+        "hint": "div.flex-auto.min-width-0.mb-2",
+        "lastSeenAt": 1766491906168,
+        "text": "wants to merge",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 8,
+        "firstSeenAt": 1766491235313,
+        "hint": "a.py-1",
+        "lastSeenAt": 1766504701612,
+        "text": "Jump to bottom",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 6,
+        "firstSeenAt": 1766491235313,
+        "hint": "bdi.js-issue-title.markdown-title",
+        "lastSeenAt": 1766491404902,
+        "text": "Persist reading position on exit",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
+        "count": 35,
+        "firstSeenAt": 1766491235311,
+        "hint": "span.ActionListItem-label",
+        "lastSeenAt": 1766504701610,
+        "text": "Android-novel-downlodar",
+        "type": "textNode",
+        "url": "https://github.com/Rakua-Laqua/Android-novel-downlodar/pull/1"
+    },
+    {
         "count": 1,
         "firstSeenAt": 1766332946672,
         "hint": "span.text-small",
@@ -180,46 +3249,46 @@
         "url": "https://github.com/settings/keys"
     },
     {
-        "count": 3,
+        "count": 4,
         "firstSeenAt": 1766332875334,
         "hint": "p.note",
-        "lastSeenAt": 1766332926068,
+        "lastSeenAt": 1766504861949,
         "text": "We’ll remove your public profile email and use",
         "type": "textNode",
         "url": "https://github.com/settings/emails"
     },
     {
-        "count": 3,
+        "count": 4,
         "firstSeenAt": 1766332875334,
         "hint": "button.ActionListContent",
-        "lastSeenAt": 1766332926068,
+        "lastSeenAt": 1766504861948,
         "text": "Delete mam25109@bene.fit.ac.jp",
         "type": "aria-label",
         "url": "https://github.com/settings/emails"
     },
     {
-        "count": 3,
+        "count": 4,
         "firstSeenAt": 1766332875333,
         "hint": "button.ActionListContent",
-        "lastSeenAt": 1766332926068,
+        "lastSeenAt": 1766504861948,
         "text": "Delete mana331816@gmail.com",
         "type": "aria-label",
         "url": "https://github.com/settings/emails"
     },
     {
-        "count": 3,
+        "count": 4,
         "firstSeenAt": 1766332875333,
         "hint": "tool-tip.sr-only.position-absolute",
-        "lastSeenAt": 1766332926068,
+        "lastSeenAt": 1766504861948,
         "text": "Manage email mam25109@bene.fit.ac.jp",
         "type": "textNode",
         "url": "https://github.com/settings/emails"
     },
     {
-        "count": 9,
+        "count": 12,
         "firstSeenAt": 1766332875333,
         "hint": "span",
-        "lastSeenAt": 1766332926068,
+        "lastSeenAt": 1766504861949,
         "text": "mam25109@bene.fit.ac.jp",
         "type": "textNode",
         "url": "https://github.com/settings/emails"
@@ -243,10 +3312,10 @@
         "url": "https://github.com/settings/emails"
     },
     {
-        "count": 3,
+        "count": 4,
         "firstSeenAt": 1766332875333,
         "hint": "tool-tip.sr-only.position-absolute",
-        "lastSeenAt": 1766332926067,
+        "lastSeenAt": 1766504861948,
         "text": "Manage email mana331816@gmail.com",
         "type": "textNode",
         "url": "https://github.com/settings/emails"
@@ -342,37 +3411,37 @@
         "url": "https://github.com/settings/organizations"
     },
     {
-        "count": 6,
+        "count": 18,
         "firstSeenAt": 1766332696204,
         "hint": "p.Banner-title",
-        "lastSeenAt": 1766332966575,
+        "lastSeenAt": 1766504860229,
         "text": "Something went really wrong, and we can’t process that file.",
         "type": "textNode",
         "url": "https://github.com/settings/replies"
     },
     {
-        "count": 6,
+        "count": 18,
         "firstSeenAt": 1766332696204,
         "hint": "p",
-        "lastSeenAt": 1766332966575,
+        "lastSeenAt": 1766504860229,
         "text": "Try again with a file that’s not empty.",
         "type": "textNode",
         "url": "https://github.com/settings/replies"
     },
     {
-        "count": 12,
+        "count": 36,
         "firstSeenAt": 1766332696204,
         "hint": "p",
-        "lastSeenAt": 1766332966575,
+        "lastSeenAt": 1766504860229,
         "text": "Try again with GIF, JPEG, JPG, MOV, MP4, PNG, SVG, WEBM, WEBP, BMP, C, COPILOTMD, CPP, CPUPROFILE, CS, CSS, CSV, DEBUG, DMP, DOC, DOCX, DRAWIO, EML, FODG, FODP, FODS, FODT, GZ, HTM, HTML, IPYNB, JAVA, JS, JSON, JSONC, LOG, MD, MP3, MSG, ODF, ODG, ODP, ODS, ODT, PATCH, PDB, PDF, PHP, PPTX, PY, RTF, SH, SQL, TGZ, TIF, TIFF, TS, TSV, TSX, TXT, WAV, XLS, XLSM, XLSX, XML, YAML, YML or ZIP.",
         "type": "textNode",
         "url": "https://github.com/settings/replies"
     },
     {
-        "count": 6,
+        "count": 18,
         "firstSeenAt": 1766332696203,
         "hint": "p.Banner-title",
-        "lastSeenAt": 1766332966575,
+        "lastSeenAt": 1766504860229,
         "text": "We don’t support that file type.",
         "type": "textNode",
         "url": "https://github.com/settings/replies"
@@ -468,10 +3537,10 @@
         "url": "https://github.com/settings/replies"
     },
     {
-        "count": 3,
+        "count": 6,
         "firstSeenAt": 1766332696202,
         "hint": "p",
-        "lastSeenAt": 1766332966448,
+        "lastSeenAt": 1766504860103,
         "text": "Saved replies are re-usable text snippets that you can use throughout GitHub comment fields. Saved replies can save you time if you’re often typing similar responses.",
         "type": "textNode",
         "url": "https://github.com/settings/replies"
@@ -3123,10 +6192,10 @@
         "url": "https://github.com/settings/notifications"
     },
     {
-        "count": 7,
+        "count": 9,
         "firstSeenAt": 1766332221117,
         "hint": "span.prc-Button-Label-FWkx3",
-        "lastSeenAt": 1766332926068,
+        "lastSeenAt": 1766504861949,
         "text": "mana331816@gmail.com",
         "type": "textNode",
         "url": "https://github.com/settings/notifications"
@@ -3285,10 +6354,10 @@
         "url": "https://github.com/settings/profile"
     },
     {
-        "count": 96,
+        "count": 104,
         "firstSeenAt": 1766332215384,
         "hint": "link",
-        "lastSeenAt": 1766332966450,
+        "lastSeenAt": 1766504861950,
         "text": "GitHub",
         "type": "title",
         "url": "https://github.com/settings/profile"
@@ -4941,28 +8010,28 @@
         "url": "https://github.com/settings/profile"
     },
     {
-        "count": 25,
+        "count": 32,
         "firstSeenAt": 1766332213273,
         "hint": "input.form-control",
-        "lastSeenAt": 1766332961377,
+        "lastSeenAt": 1766504860105,
         "text": "github-ruby",
         "type": "placeholder",
         "url": "https://github.com/settings/education/benefits"
     },
     {
-        "count": 25,
+        "count": 28,
         "firstSeenAt": 1766332213267,
         "hint": "span.color-fg-muted",
-        "lastSeenAt": 1766332961374,
+        "lastSeenAt": 1766504860101,
         "text": "(Rakua-Laqua)",
         "type": "textNode",
         "url": "https://github.com/settings/education/benefits"
     },
     {
-        "count": 37,
+        "count": 105,
         "firstSeenAt": 1766332213266,
         "hint": "a.color-fg-default",
-        "lastSeenAt": 1766332961374,
+        "lastSeenAt": 1766504860101,
         "text": "Rakua-Laqua",
         "type": "textNode",
         "url": "https://github.com/settings/education/benefits"
